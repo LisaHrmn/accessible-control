@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Sphinx_UE4_Demo.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{DA0FE464-01C6-40C4-9888-9F7048DD3128}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Sphinx_UE4_Demo.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\Sphinx_UE4_DemoEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{ECDB8FBE-0AA6-4B44-B0A8-E59C977661AF}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Plugins">
+			<UniqueIdentifier>{70D5608E-5684-41D6-B91F-CEEF7F23DAAE}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Plugins\SpeechRecognition">
+			<UniqueIdentifier>{6744A6B2-9645-42D9-B686-E6DE70587C8C}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Plugins\SpeechRecognition\Source">
+			<UniqueIdentifier>{AC87A119-ADBE-423F-9AF6-2DABAAC3B6F7}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Plugins\SpeechRecognition\Source\SpeechRecognition">
+			<UniqueIdentifier>{99718FDD-E837-44DC-A181-2A1B171E1C4D}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Plugins\SpeechRecognition\Source\SpeechRecognition\SpeechRecognition.Build.cs">
+			<Filter>Plugins\SpeechRecognition\Source\SpeechRecognition</Filter>
+		</None >
+		<Filter Include="Plugins\SpeechRecognition\Source\SpeechRecognition\Private">
+			<UniqueIdentifier>{8772029D-2056-48A6-9815-C7F720230624}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Plugins\SpeechRecognition\Source\SpeechRecognition\Private\SpeechRecognition.cpp">
+			<Filter>Plugins\SpeechRecognition\Source\SpeechRecognition\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Plugins\SpeechRecognition\Source\SpeechRecognition\Private\SpeechRecognitionActor.cpp">
+			<Filter>Plugins\SpeechRecognition\Source\SpeechRecognition\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Plugins\SpeechRecognition\Source\SpeechRecognition\Private\SpeechRecognitionWorker.cpp">
+			<Filter>Plugins\SpeechRecognition\Source\SpeechRecognition\Private</Filter>
+		</ClCompile >
+		<Filter Include="Plugins\SpeechRecognition\Source\SpeechRecognition\Public">
+			<UniqueIdentifier>{7F89A9DE-818F-4E02-B68D-D8314636356C}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Plugins\SpeechRecognition\Source\SpeechRecognition\Public\ISpeechRecognition.h">
+			<Filter>Plugins\SpeechRecognition\Source\SpeechRecognition\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Plugins\SpeechRecognition\Source\SpeechRecognition\Public\SpeechRecognition.h">
+			<Filter>Plugins\SpeechRecognition\Source\SpeechRecognition\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Plugins\SpeechRecognition\Source\SpeechRecognition\Public\SpeechRecognitionActor.h">
+			<Filter>Plugins\SpeechRecognition\Source\SpeechRecognition\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Plugins\SpeechRecognition\Source\SpeechRecognition\Public\SpeechRecognitionWorker.h">
+			<Filter>Plugins\SpeechRecognition\Source\SpeechRecognition\Public</Filter>
+		</ClInclude >
+		<None Include="..\..\Plugins\SpeechRecognition\SpeechRecognition.uplugin">
+			<Filter>Plugins\SpeechRecognition</Filter>
+		</None >
+		<Filter Include="Plugins\SpeechRecognition\Resources">
+			<UniqueIdentifier>{AB8452A4-BC69-468A-983D-54C38BCEA7B3}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Plugins\SpeechRecognition\Resources\Icon128.png">
+			<Filter>Plugins\SpeechRecognition\Resources</Filter>
+		</None >
+		<Filter Include="Source\Sphinx_UE4_Demo">
+			<UniqueIdentifier>{04CE32AB-0284-4AEE-AB95-2AE696084161}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\Sphinx_UE4_Demo\SpeechRecogTestActor.cpp">
+			<Filter>Source\Sphinx_UE4_Demo</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Sphinx_UE4_Demo\SpeechRecogTestActor.h">
+			<Filter>Source\Sphinx_UE4_Demo</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\Sphinx_UE4_Demo\Sphinx_UE4_Demo.Build.cs">
+			<Filter>Source\Sphinx_UE4_Demo</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Sphinx_UE4_Demo\Sphinx_UE4_Demo.cpp">
+			<Filter>Source\Sphinx_UE4_Demo</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Sphinx_UE4_Demo\Sphinx_UE4_Demo.h">
+			<Filter>Source\Sphinx_UE4_Demo</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Sphinx_UE4_Demo\Sphinx_UE4_DemoGameMode.cpp">
+			<Filter>Source\Sphinx_UE4_Demo</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Sphinx_UE4_Demo\Sphinx_UE4_DemoGameMode.h">
+			<Filter>Source\Sphinx_UE4_Demo</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

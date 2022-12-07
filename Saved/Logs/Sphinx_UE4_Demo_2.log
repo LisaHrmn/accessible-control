@@ -1,0 +1,2111 @@
+﻿Log file open, 06/17/22 13:17:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Sphinx_UE4_Demo
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-714894554) SRandInit(-714894553).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+LogTaskGraph: Started task graph with 5 named threads and 17 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.489607
+LogD3D11RHI: Aftermath initialized
+LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+LogPluginManager: Warning: Engine version string in ../../../../../Unreal/PLE_Project/Plugins/SpeechRecognition/SpeechRecognition.uplugin could not be parsed ("4.18")
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin SpeechRecognition
+LogModuleManager: Display: Found up-to-date module file ../../../../../Unreal/PLE_Project/Binaries/Win64/UE4Editor-Sphinx_UE4_Demo.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../../../Unreal/PLE_Project/Plugins/SpeechRecognition/Binaries/Win64/UE4Editor-SpeechRecognition.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  /Game/Maps/Game/Scene2 -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed 
+LogInit: Base directory: D:/Epic/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2022.06.17-11.17.27:620][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.17-11.17.27:620][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.06.17-11.17.27:636][  0]LogInit: Computer: LAPTOP-E0GVLKBV
+[2022.06.17-11.17.27:637][  0]LogInit: User: lisak
+[2022.06.17-11.17.27:637][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.06.17-11.17.27:637][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.17-11.17.27:637][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.06.17-11.17.27:637][  0]LogMemory: Platform Memory Stats for Windows
+[2022.06.17-11.17.27:637][  0]LogMemory: Process Physical Memory: 274.77 MB used, 274.77 MB peak
+[2022.06.17-11.17.27:637][  0]LogMemory: Process Virtual Memory: 272.22 MB used, 272.22 MB peak
+[2022.06.17-11.17.27:637][  0]LogMemory: Physical Memory: 8946.44 MB used,  7288.34 MB free, 16234.78 MB total
+[2022.06.17-11.17.27:637][  0]LogMemory: Virtual Memory: 4769.94 MB used,  7288.34 MB free, 134217728.00 MB total
+[2022.06.17-11.17.28:229][  0]LogInit: Using OS detected language (nl-NL).
+[2022.06.17-11.17.28:229][  0]LogInit: Using OS detected locale (nl-NL).
+[2022.06.17-11.17.28:236][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the language.
+[2022.06.17-11.17.28:240][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the locale.
+[2022.06.17-11.17.29:649][  0]LogD3D11RHI: D3D11 adapters:
+[2022.06.17-11.17.29:812][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2022.06.17-11.17.29:812][  0]LogD3D11RHI:       6052/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.06.17-11.17.29:833][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.06.17-11.17.29:834][  0]LogD3D11RHI:       128/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.06.17-11.17.29:838][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.06.17-11.17.29:838][  0]LogD3D11RHI:       0/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.06.17-11.17.29:838][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.06.17-11.17.29:848][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.06.17-11.17.29:849][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2022.06.17-11.17.29:849][  0]LogWindows: EnumDisplayDevices:
+[2022.06.17-11.17.29:850][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2022.06.17-11.17.29:851][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.06.17-11.17.29:852][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.06.17-11.17.29:852][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2022.06.17-11.17.29:852][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2022.06.17-11.17.29:852][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2022.06.17-11.17.29:852][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.06.17-11.17.29:852][  0]LogD3D11RHI:      Driver Date: Unknown
+[2022.06.17-11.17.29:852][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2022.06.17-11.17.29:934][  0]LogD3D11RHI: Async texture creation enabled
+[2022.06.17-11.17.29:970][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.06.17-11.17.29:971][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (../../../../../Unreal/PLE_Project/Intermediate/Shaders/WorkingDirectory/9640/).
+[2022.06.17-11.17.29:971][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lisak/AppData/Local/Temp/UnrealShaderWorkingDir/289A8986430AFC7A86D5A195EA7BB67D/'.
+[2022.06.17-11.17.29:971][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.06.17-11.17.31:236][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2022.06.17-11.17.31:309][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2022.06.17-11.17.31:380][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2022.06.17-11.17.31:452][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2022.06.17-11.17.31:452][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.06.17-11.17.32:117][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.06.17-11.17.32:281][  0]LogDerivedDataCache: Loaded boot cache 0.16s 90MB C:/Users/lisak/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2022.06.17-11.17.32:282][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lisak/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2022.06.17-11.17.32:282][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal/PLE_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.17-11.17.32:282][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.06.17-11.17.32:282][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal/PLE_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.17-11.17.32:282][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.06.17-11.17.32:302][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.06.17-11.17.32:315][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lisak/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.17-11.17.32:332][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.06.17-11.17.32:332][  0]LogSlate: Using Freetype 2.6.0
+[2022.06.17-11.17.32:332][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.17-11.17.32:332][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.17-11.17.32:715][  0]LogAssetRegistry: FAssetRegistry took 0.0070 seconds to start up
+[2022.06.17-11.17.32:729][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.013134 seconds
+[2022.06.17-11.17.32:868][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.17-11.17.33:309][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2022.06.17-11.17.33:365][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2022.06.17-11.17.33:365][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.17-11.17.33:365][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2022.06.17-11.17.33:365][  0]LogMeshReduction: No automatic mesh merging module available
+[2022.06.17-11.17.33:365][  0]LogMeshMerging: No automatic mesh merging module available
+[2022.06.17-11.17.33:403][  0]LogNetVersion: Sphinx_UE4_Demo , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1120544880)
+[2022.06.17-11.17.33:726][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2022.06.17-11.17.33:726][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2022.06.17-11.17.33:727][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2022.06.17-11.17.34:222][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2022.06.17-11.17.36:054][  0]LogMoviePlayer: Initializing movie player
+[2022.06.17-11.17.36:700][  0]LogCollectionManager: Loaded 1 collections in 0.001017 seconds
+[2022.06.17-11.17.36:762][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/PLE_Project/Saved/Collections/' took 0.01s
+[2022.06.17-11.17.36:762][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/PLE_Project/Content/Developers/lisak/Collections/' took 0.01s
+[2022.06.17-11.17.36:762][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/PLE_Project/Content/Collections/' took 0.01s
+[2022.06.17-11.17.36:762][  0]LogCollectionManager: Rebuilt the object cache for 1 collections in 0.000006 seconds (found 0 objects)
+[2022.06.17-11.17.36:762][  0]LogCollectionManager: Fixed up redirectors for 1 collections in 0.000111 seconds (updated 0 objects)
+[2022.06.17-11.17.37:032][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.17-11.17.37:084][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.17-11.17.37:922][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2022.06.17-11.17.37:923][  0]SourceControl: Source control is disabled
+[2022.06.17-11.17.37:923][  0]SourceControl: Source control is disabled
+[2022.06.17-11.17.37:993][  0]SourceControl: Source control is disabled
+[2022.06.17-11.17.38:546][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.17-11.17.38:912][  0]LogOcInput: OculusInput pre-init called
+[2022.06.17-11.17.39:062][  0]LogUObjectArray: 38988 objects as part of root set at end of initial load.
+[2022.06.17-11.17.39:062][  0]LogUObjectAllocator: 8366160 out of 0 bytes used by permanent object pool.
+[2022.06.17-11.17.39:062][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.17-11.17.39:208][  0]LogEngine: Initializing Engine...
+[2022.06.17-11.17.39:213][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.17-11.17.39:533][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2022.06.17-11.17.39:533][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2022.06.17-11.17.39:572][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.06.17-11.17.39:635][  0]LogInit: FAudioDevice initialized.
+[2022.06.17-11.17.39:676][  0]LogInit: Texture streaming: Enabled
+[2022.06.17-11.17.39:709][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2022.06.17-11.17.40:208][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2022.06.17-11.17.40:270][  0]LogInit: Display: Game Engine Initialized.
+[2022.06.17-11.17.40:270][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2022.06.17-11.17.40:526][  0]LogInit: Display: Starting Game.
+[2022.06.17-11.17.40:526][  0]LogNet: Browse: /Game/Maps/Game/Scene2?Name=Player
+[2022.06.17-11.17.40:527][  0]LogLoad: LoadMap: /Game/Maps/Game/Scene2?Name=Player
+[2022.06.17-11.17.40:792][  0]LogBlueprint: Error: [Compiler InGameGameMode] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.17-11.17.40:793][  0]LogBlueprint: Warning: [Compiler InGameGameMode] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-11.17.40:825][  0]LogBlueprint: Warning: [Compiler InGameGameMode] [0021.60] Compile of InGameGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 115 ms] (/Game/Blueprints/GameMode/InGameGameMode.InGameGameMode)
+[2022.06.17-11.17.41:200][  0]LogAIModule: Creating AISystem for world Scene2
+[2022.06.17-11.17.41:201][  0]LogLoad: Game class is 'LanguageGameMode_C'
+[2022.06.17-11.17.41:209][  0]LogWorld: Bringing World /Game/Maps/Game/Scene2.Scene2 up for play (max tick rate 0) at 2022.06.17-13.17.41
+[2022.06.17-11.17.41:210][  0]LogWorld: Bringing up level for play took: 0.008190
+[2022.06.17-11.17.41:213][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.17.41:213][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.17.41:213][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.17.41:230][  0]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Speech Recognition Init : SUCCESS
+[2022.06.17-11.17.41:231][  0]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Keyword Mode : Enabled
+[2022.06.17-11.17.41:233][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.17.41:234][  0]LogLoad: Took 0.707146 seconds to LoadMap(/Game/Maps/Game/Scene2)
+[2022.06.17-11.17.41:532][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2022.06.17-11.17.41:532][  0]SpeechRecognitionPlugin: Speech Recognition has started
+[2022.06.17-11.17.41:532][  0]LogLoad: (Engine Initialization) Total time: 22.31 seconds
+[2022.06.17-11.17.41:532][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.17-11.17.41:533][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2022.06.17-11.17.41:559][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.17-11.17.42:105][ 21]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.17.45:225][214]SpeechRecognitionPlugin: Word: one eighty Start Time: 1.150 End Time 1.390
+[2022.06.17-11.17.45:225][214]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.17.45:225][214]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.17.45:225][214]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.17.45:413][226]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.17.46:016][262]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.17.47:867][376]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.17.48:679][425]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.17.49:133][453]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.17.51:497][590]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.17.52:586][656]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.17.53:039][681]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.17.53:663][720]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.17.53:992][740]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.17.57:729][969]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.17.59:104][ 48]LogPackageName: SearchForPackageOnDisk took   0.076s to resolve Scene1.umap.
+[2022.06.17-11.17.59:110][ 49]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.17.59:110][ 49]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.17.59:199][ 49]LogPackageName: SearchForPackageOnDisk took   0.089s to resolve Scene1.umap.
+[2022.06.17-11.17.59:199][ 49]LogNet: Browse: /Game/Maps/Game/Scene1?Name=Player
+[2022.06.17-11.17.59:199][ 49]LogLoad: LoadMap: /Game/Maps/Game/Scene1?Name=Player
+[2022.06.17-11.17.59:513][ 49]LogBlueprint: Error: [Compiler InGameGameMode] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.17-11.17.59:514][ 49]LogBlueprint: Warning: [Compiler InGameGameMode] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-11.17.59:541][ 49]LogBlueprint: Warning: [Compiler InGameGameMode] [0040.32] Compile of InGameGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 104 ms] (/Game/Blueprints/GameMode/InGameGameMode.InGameGameMode)
+[2022.06.17-11.17.59:722][ 49]LogAIModule: Creating AISystem for world Scene1
+[2022.06.17-11.17.59:733][ 49]LogLoad: Game class is 'LanguageGameMode_C'
+[2022.06.17-11.17.59:742][ 49]LogWorld: Bringing World /Game/Maps/Game/Scene1.Scene1 up for play (max tick rate 0) at 2022.06.17-13.17.59
+[2022.06.17-11.17.59:742][ 49]LogWorld: Bringing up level for play took: 0.008479
+[2022.06.17-11.17.59:743][ 49]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.17.59:743][ 49]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.17.59:743][ 49]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.17.59:745][ 49]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.17.59:747][ 49]LogLoad: Took 0.547033 seconds to LoadMap(/Game/Maps/Game/Scene1)
+[2022.06.17-11.17.59:832][ 50]LogPackageName: SearchForPackageOnDisk took   0.075s to resolve Scene2.umap.
+[2022.06.17-11.17.59:909][ 50]LogPackageName: SearchForPackageOnDisk took   0.076s to resolve Scene2.umap.
+[2022.06.17-11.17.59:911][ 51]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.17.59:911][ 51]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.17.59:983][ 51]LogPackageName: SearchForPackageOnDisk took   0.071s to resolve Scene2.umap.
+[2022.06.17-11.17.59:983][ 51]LogNet: Browse: /Game/Maps/Game/Scene2
+[2022.06.17-11.17.59:983][ 51]LogLoad: LoadMap: /Game/Maps/Game/Scene2
+[2022.06.17-11.18.00:263][ 51]LogBlueprint: Error: [Compiler InGameGameMode] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.17-11.18.00:263][ 51]LogBlueprint: Warning: [Compiler InGameGameMode] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-11.18.00:287][ 51]LogBlueprint: Warning: [Compiler InGameGameMode] [0041.06] Compile of InGameGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 98 ms] (/Game/Blueprints/GameMode/InGameGameMode.InGameGameMode)
+[2022.06.17-11.18.00:479][ 51]LogAIModule: Creating AISystem for world Scene2
+[2022.06.17-11.18.00:480][ 51]LogLoad: Game class is 'LanguageGameMode_C'
+[2022.06.17-11.18.00:486][ 51]LogWorld: Bringing World /Game/Maps/Game/Scene2.Scene2 up for play (max tick rate 0) at 2022.06.17-13.18.00
+[2022.06.17-11.18.00:486][ 51]LogWorld: Bringing up level for play took: 0.004616
+[2022.06.17-11.18.00:486][ 51]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.18.00:486][ 51]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.18.00:486][ 51]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.18.00:502][ 51]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Speech Recognition Init : SUCCESS
+[2022.06.17-11.18.00:503][ 51]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Keyword Mode : Enabled
+[2022.06.17-11.18.00:506][ 51]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.18.00:506][ 51]LogLoad: Took 0.522572 seconds to LoadMap(/Game/Maps/Game/Scene2)
+[2022.06.17-11.18.00:926][ 70]SpeechRecognitionPlugin: Speech Recognition has started
+[2022.06.17-11.18.01:603][112]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.18.01:841][121]LogPackageName: SearchForPackageOnDisk took   0.080s to resolve Scene1.umap.
+[2022.06.17-11.18.01:846][122]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.18.01:846][122]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.18.01:930][122]LogPackageName: SearchForPackageOnDisk took   0.084s to resolve Scene1.umap.
+[2022.06.17-11.18.01:930][122]LogNet: Browse: /Game/Maps/Game/Scene1
+[2022.06.17-11.18.01:931][122]LogLoad: LoadMap: /Game/Maps/Game/Scene1
+[2022.06.17-11.18.02:257][122]LogBlueprint: Error: [Compiler InGameGameMode] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.17-11.18.02:258][122]LogBlueprint: Warning: [Compiler InGameGameMode] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-11.18.02:281][122]LogBlueprint: Warning: [Compiler InGameGameMode] [0043.05] Compile of InGameGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 93 ms] (/Game/Blueprints/GameMode/InGameGameMode.InGameGameMode)
+[2022.06.17-11.18.02:465][122]LogAIModule: Creating AISystem for world Scene1
+[2022.06.17-11.18.02:472][122]LogLoad: Game class is 'LanguageGameMode_C'
+[2022.06.17-11.18.02:483][122]LogWorld: Bringing World /Game/Maps/Game/Scene1.Scene1 up for play (max tick rate 0) at 2022.06.17-13.18.02
+[2022.06.17-11.18.02:484][122]LogWorld: Bringing up level for play took: 0.010600
+[2022.06.17-11.18.02:484][122]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.18.02:484][122]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.18.02:484][122]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.18.02:485][122]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.18.02:486][122]LogLoad: Took 0.554509 seconds to LoadMap(/Game/Maps/Game/Scene1)
+[2022.06.17-11.18.08:307][454]LogRenderer: Reallocating scene render targets to support 1536x804 Format 10 NumSamples 1 (Frame:335).
+[2022.06.17-11.18.11:074][605]LogPackageName: SearchForPackageOnDisk took   0.120s to resolve Scene2.umap.
+[2022.06.17-11.18.11:083][606]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.18.11:083][606]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.18.11:174][606]LogPackageName: SearchForPackageOnDisk took   0.089s to resolve Scene2.umap.
+[2022.06.17-11.18.11:174][606]LogNet: Browse: /Game/Maps/Game/Scene2
+[2022.06.17-11.18.11:174][606]LogLoad: LoadMap: /Game/Maps/Game/Scene2
+[2022.06.17-11.18.11:472][606]LogBlueprint: Error: [Compiler InGameGameMode] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.17-11.18.11:472][606]LogBlueprint: Warning: [Compiler InGameGameMode] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-11.18.11:499][606]LogBlueprint: Warning: [Compiler InGameGameMode] [0052.27] Compile of InGameGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 100 ms] (/Game/Blueprints/GameMode/InGameGameMode.InGameGameMode)
+[2022.06.17-11.18.11:701][606]LogAIModule: Creating AISystem for world Scene2
+[2022.06.17-11.18.11:701][606]LogLoad: Game class is 'LanguageGameMode_C'
+[2022.06.17-11.18.11:708][606]LogWorld: Bringing World /Game/Maps/Game/Scene2.Scene2 up for play (max tick rate 0) at 2022.06.17-13.18.11
+[2022.06.17-11.18.11:709][606]LogWorld: Bringing up level for play took: 0.006793
+[2022.06.17-11.18.11:709][606]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.18.11:709][606]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.18.11:709][606]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.18.11:728][606]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Speech Recognition Init : SUCCESS
+[2022.06.17-11.18.11:728][606]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Keyword Mode : Enabled
+[2022.06.17-11.18.11:728][606]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.18.11:729][606]LogLoad: Took 0.554409 seconds to LoadMap(/Game/Maps/Game/Scene2)
+[2022.06.17-11.18.12:130][624]SpeechRecognitionPlugin: Speech Recognition has started
+[2022.06.17-11.18.13:000][678]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.18.14:395][764]SpeechRecognitionPlugin: Word: enable walk Start Time: 0.530 End Time 1.350
+[2022.06.17-11.18.14:395][764]SpeechRecognitionPlugin: enable walk
+[2022.06.17-11.18.14:395][764]SpeechRecognitionPlugin: Phrases: enable walk 
+[2022.06.17-11.18.14:395][764]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] enable walk
+[2022.06.17-11.18.14:560][775]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.18.14:884][795]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.18.15:495][833]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.18.16:591][901]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.18.17:524][958]SpeechRecognitionPlugin: Word: stop movement Start Time: 3.630 End Time 4.450
+[2022.06.17-11.18.17:524][958]SpeechRecognitionPlugin: stop movement
+[2022.06.17-11.18.17:524][958]SpeechRecognitionPlugin: Phrases: stop movement 
+[2022.06.17-11.18.17:524][958]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] stop movement
+[2022.06.17-11.18.17:838][978]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.18.18:625][ 27]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.18.20:493][142]SpeechRecognitionPlugin: Word: one eighty Start Time: 6.270 End Time 6.600
+[2022.06.17-11.18.20:493][142]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.18.20:493][142]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.18.20:493][142]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.18.20:802][162]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.18.21:123][182]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.18.22:223][250]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.18.23:946][357]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.18.25:334][443]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.18.25:967][482]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.18.28:462][636]SpeechRecognitionPlugin: Word: one eighty Start Time: 13.930 End Time 14.380
+[2022.06.17-11.18.28:463][636]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.18.28:463][636]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.18.28:463][636]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.18.28:772][656]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.18.29:563][705]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.18.30:334][753]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.18.31:737][840]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.18.33:157][927]SpeechRecognitionPlugin: Word: one eighty Start Time: 19.900 End Time 20.190
+[2022.06.17-11.18.33:157][927]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.18.33:157][927]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.18.33:157][927]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.18.33:304][937]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.18.34:079][985]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.18.35:708][ 80]LogPackageName: SearchForPackageOnDisk took   0.084s to resolve Scene1.umap.
+[2022.06.17-11.18.35:714][ 81]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.18.35:714][ 81]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.18.35:800][ 81]LogPackageName: SearchForPackageOnDisk took   0.084s to resolve Scene1.umap.
+[2022.06.17-11.18.35:800][ 81]LogNet: Browse: /Game/Maps/Game/Scene1
+[2022.06.17-11.18.35:800][ 81]LogLoad: LoadMap: /Game/Maps/Game/Scene1
+[2022.06.17-11.18.36:131][ 81]LogBlueprint: Error: [Compiler InGameGameMode] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.17-11.18.36:131][ 81]LogBlueprint: Warning: [Compiler InGameGameMode] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-11.18.36:153][ 81]LogBlueprint: Warning: [Compiler InGameGameMode] [0076.93] Compile of InGameGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 93 ms] (/Game/Blueprints/GameMode/InGameGameMode.InGameGameMode)
+[2022.06.17-11.18.36:365][ 81]LogAIModule: Creating AISystem for world Scene1
+[2022.06.17-11.18.36:369][ 81]LogLoad: Game class is 'LanguageGameMode_C'
+[2022.06.17-11.18.36:382][ 81]LogWorld: Bringing World /Game/Maps/Game/Scene1.Scene1 up for play (max tick rate 0) at 2022.06.17-13.18.36
+[2022.06.17-11.18.36:382][ 81]LogWorld: Bringing up level for play took: 0.011469
+[2022.06.17-11.18.36:383][ 81]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.18.36:383][ 81]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.18.36:383][ 81]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.18.36:386][ 81]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.18.36:387][ 81]LogLoad: Took 0.587278 seconds to LoadMap(/Game/Maps/Game/Scene1)
+[2022.06.17-11.22.17:574][707]LogPackageName: SearchForPackageOnDisk took   0.070s to resolve Scene2.umap.
+[2022.06.17-11.22.17:578][708]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.22.17:578][708]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.22.17:651][708]LogPackageName: SearchForPackageOnDisk took   0.072s to resolve Scene2.umap.
+[2022.06.17-11.22.17:651][708]LogNet: Browse: /Game/Maps/Game/Scene2
+[2022.06.17-11.22.17:652][708]LogLoad: LoadMap: /Game/Maps/Game/Scene2
+[2022.06.17-11.22.17:928][708]LogBlueprint: Error: [Compiler InGameGameMode] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.17-11.22.17:932][708]LogBlueprint: Warning: [Compiler InGameGameMode] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-11.22.17:959][708]LogBlueprint: Warning: [Compiler InGameGameMode] [0298.73] Compile of InGameGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 103 ms] (/Game/Blueprints/GameMode/InGameGameMode.InGameGameMode)
+[2022.06.17-11.22.18:185][708]LogAIModule: Creating AISystem for world Scene2
+[2022.06.17-11.22.18:186][708]LogLoad: Game class is 'LanguageGameMode_C'
+[2022.06.17-11.22.18:198][708]LogWorld: Bringing World /Game/Maps/Game/Scene2.Scene2 up for play (max tick rate 0) at 2022.06.17-13.22.18
+[2022.06.17-11.22.18:199][708]LogWorld: Bringing up level for play took: 0.011852
+[2022.06.17-11.22.18:203][708]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.22.18:203][708]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.22.18:203][708]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.22.18:221][708]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Speech Recognition Init : SUCCESS
+[2022.06.17-11.22.18:222][708]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Keyword Mode : Enabled
+[2022.06.17-11.22.18:225][708]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.22.18:226][708]LogLoad: Took 0.574653 seconds to LoadMap(/Game/Maps/Game/Scene2)
+[2022.06.17-11.22.18:741][734]SpeechRecognitionPlugin: Speech Recognition has started
+[2022.06.17-11.22.19:626][789]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.20:701][855]SpeechRecognitionPlugin: Word: one eighty Start Time: 0.360 End Time 0.790
+[2022.06.17-11.22.20:702][855]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.22.20:702][855]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.22.20:702][855]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.22.20:867][866]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.23:062][  2]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.23:981][ 59]SpeechRecognitionPlugin: Word: enable walk Start Time: 3.630 End Time 4.290
+[2022.06.17-11.22.23:982][ 59]SpeechRecognitionPlugin: enable walk
+[2022.06.17-11.22.23:982][ 59]SpeechRecognitionPlugin: Phrases: enable walk 
+[2022.06.17-11.22.23:982][ 59]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] enable walk
+[2022.06.17-11.22.24:142][ 69]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.24:930][118]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.25:256][138]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.26:494][214]SpeechRecognitionPlugin: Word: one eighty Start Time: 5.950 End Time 6.240
+[2022.06.17-11.22.26:494][214]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.22.26:494][214]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.22.26:494][214]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.22.26:803][234]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.27:414][272]SpeechRecognitionPlugin: Word: one eighty Start Time: 7.160 End Time 7.760
+[2022.06.17-11.22.27:414][272]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.22.27:414][272]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.22.27:414][272]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.22.28:835][360]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.29:145][379]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.31:025][495]SpeechRecognitionPlugin: Word: one eighty Start Time: 10.810 End Time 11.050
+[2022.06.17-11.22.31:025][495]SpeechRecognitionPlugin: Word: turn right Start Time: 10.730 End Time 10.950
+[2022.06.17-11.22.31:025][495]SpeechRecognitionPlugin: Word: one eighty Start Time: 10.260 End Time 10.630
+[2022.06.17-11.22.31:025][495]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.22.31:025][495]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.22.31:025][495]SpeechRecognitionPlugin: turn right
+[2022.06.17-11.22.31:025][495]SpeechRecognitionPlugin: Phrases: turn right 
+[2022.06.17-11.22.31:025][495]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.22.31:025][495]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] turn right
+[2022.06.17-11.22.31:351][516]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.31:641][533]SpeechRecognitionPlugin: Word: one eighty Start Time: 11.630 End Time 11.980
+[2022.06.17-11.22.31:641][533]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.22.31:641][533]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.22.31:641][533]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.22.31:964][554]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.32:756][603]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.33:837][670]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.34:933][738]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.35:561][777]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.36:497][835]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.37:107][872]SpeechRecognitionPlugin: Word: one eighty Start Time: 16.860 End Time 17.160
+[2022.06.17-11.22.37:107][872]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.22.37:107][872]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.22.37:107][872]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.22.37:596][903]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.38:060][931]SpeechRecognitionPlugin: Word: one eighty Start Time: 18.160 End Time 18.370
+[2022.06.17-11.22.38:060][931]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.22.38:060][931]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.22.38:060][931]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.22.39:608][ 28]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.40:240][ 67]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.43:213][251]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.43:534][271]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.44:470][329]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.45:080][366]SpeechRecognitionPlugin: Word: turn right Start Time: 24.760 End Time 25.220
+[2022.06.17-11.22.45:080][366]SpeechRecognitionPlugin: turn right
+[2022.06.17-11.22.45:080][366]SpeechRecognitionPlugin: Phrases: turn right 
+[2022.06.17-11.22.45:080][366]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] turn right
+[2022.06.17-11.22.46:181][435]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.47:114][492]SpeechRecognitionPlugin: Word: turn right Start Time: 26.830 End Time 27.300
+[2022.06.17-11.22.47:114][492]SpeechRecognitionPlugin: turn right
+[2022.06.17-11.22.47:114][492]SpeechRecognitionPlugin: Phrases: turn right 
+[2022.06.17-11.22.47:114][492]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] turn right
+[2022.06.17-11.22.48:534][581]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.48:839][600]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.49:313][629]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.50:876][726]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.51:967][793]SpeechRecognitionPlugin: Word: one eighty Start Time: 31.960 End Time 32.170
+[2022.06.17-11.22.51:967][793]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.22.51:967][793]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.22.51:967][793]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.22.52:117][803]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.52:743][842]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.53:679][900]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.54:310][938]SpeechRecognitionPlugin: Word: one eighty Start Time: 34.370 End Time 34.790
+[2022.06.17-11.22.54:310][938]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.22.54:310][938]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.22.54:310][938]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.22.55:553][ 16]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.56:179][ 55]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.56:649][ 84]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.57:422][131]SpeechRecognitionPlugin: Word: turn left Start Time: 37.230 End Time 37.670
+[2022.06.17-11.22.57:422][131]SpeechRecognitionPlugin: turn left
+[2022.06.17-11.22.57:422][131]SpeechRecognitionPlugin: Phrases: turn left 
+[2022.06.17-11.22.57:422][131]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] turn left
+[2022.06.17-11.22.58:200][180]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.22.59:148][239]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.01:179][365]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.01:653][394]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.01:957][413]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.06:179][674]SpeechRecognitionPlugin: Word: one eighty Start Time: 46.160 End Time 46.570
+[2022.06.17-11.23.06:179][674]SpeechRecognitionPlugin: Word: one eighty Start Time: 43.610 End Time 43.950
+[2022.06.17-11.23.06:179][674]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.23.06:179][674]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.23.06:179][674]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.23.06:813][714]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.07:896][781]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.09:942][908]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.10:247][927]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.11:180][984]SpeechRecognitionPlugin: Word: enable sprint Start Time: 50.650 End Time 51.440
+[2022.06.17-11.23.11:180][984]SpeechRecognitionPlugin: enable sprint
+[2022.06.17-11.23.11:180][984]SpeechRecognitionPlugin: Phrases: enable sprint 
+[2022.06.17-11.23.11:180][984]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] enable sprint
+[2022.06.17-11.23.11:812][ 24]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.12:589][ 72]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.13:376][121]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.16:036][285]SpeechRecognitionPlugin: Word: turn left Start Time: 55.540 End Time 56.100
+[2022.06.17-11.23.16:036][285]SpeechRecognitionPlugin: Word: one eighty Start Time: 54.640 End Time 54.880
+[2022.06.17-11.23.16:036][285]SpeechRecognitionPlugin: Word: turn left Start Time: 53.730 End Time 54.160
+[2022.06.17-11.23.16:036][285]SpeechRecognitionPlugin: turn left
+[2022.06.17-11.23.16:036][285]SpeechRecognitionPlugin: Phrases: turn left 
+[2022.06.17-11.23.16:036][285]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.23.16:036][285]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.23.16:036][285]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] turn left
+[2022.06.17-11.23.16:036][285]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.23.16:165][294]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.16:654][324]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.16:960][343]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.17:427][372]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.22:896][711]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.26:021][904]SpeechRecognitionPlugin: Word: one eighty Start Time: 63.850 End Time 64.160
+[2022.06.17-11.23.26:021][904]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.23.26:021][904]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.23.26:021][904]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.23.26:174][914]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.27:123][973]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.27:897][ 21]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.30:088][156]SpeechRecognitionPlugin: Word: turn right Start Time: 68.810 End Time 69.310
+[2022.06.17-11.23.30:088][156]SpeechRecognitionPlugin: turn right
+[2022.06.17-11.23.30:088][156]SpeechRecognitionPlugin: Phrases: turn right 
+[2022.06.17-11.23.30:088][156]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] turn right
+[2022.06.17-11.23.30:248][167]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.30:719][196]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.32:749][322]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.33:219][351]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.33:991][398]SpeechRecognitionPlugin: Word: turn left Start Time: 73.600 End Time 74.060
+[2022.06.17-11.23.33:991][398]SpeechRecognitionPlugin: turn left
+[2022.06.17-11.23.33:991][398]SpeechRecognitionPlugin: Phrases: turn left 
+[2022.06.17-11.23.33:991][398]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] turn left
+[2022.06.17-11.23.34:460][428]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.35:091][467]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.36:490][553]SpeechRecognitionPlugin: Word: stop movement Start Time: 75.870 End Time 76.650
+[2022.06.17-11.23.36:490][553]SpeechRecognitionPlugin: stop movement
+[2022.06.17-11.23.36:490][553]SpeechRecognitionPlugin: Phrases: stop movement 
+[2022.06.17-11.23.36:490][553]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] stop movement
+[2022.06.17-11.23.37:285][603]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.38:363][669]SpeechRecognitionPlugin: Word: turn left Start Time: 77.870 End Time 78.410
+[2022.06.17-11.23.38:363][669]SpeechRecognitionPlugin: turn left
+[2022.06.17-11.23.38:363][669]SpeechRecognitionPlugin: Phrases: turn left 
+[2022.06.17-11.23.38:363][669]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] turn left
+[2022.06.17-11.23.39:011][710]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.40:088][776]SpeechRecognitionPlugin: Word: turn left Start Time: 79.750 End Time 80.190
+[2022.06.17-11.23.40:088][776]SpeechRecognitionPlugin: turn left
+[2022.06.17-11.23.40:088][776]SpeechRecognitionPlugin: Phrases: turn left 
+[2022.06.17-11.23.40:088][776]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] turn left
+[2022.06.17-11.23.40:398][796]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.40:868][825]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.41:175][844]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.42:108][902]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.43:063][961]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.43:526][990]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.43:832][  9]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.45:090][ 87]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.46:658][184]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.48:058][270]SpeechRecognitionPlugin: Word: one eighty Start Time: 87.190 End Time 87.440
+[2022.06.17-11.23.48:058][270]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.23.48:058][270]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.23.48:059][270]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.23.48:206][280]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.23.49:041][326]LogPackageName: SearchForPackageOnDisk took   0.079s to resolve Scene1.umap.
+[2022.06.17-11.23.49:045][327]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.23.49:045][327]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.23.49:130][327]LogPackageName: SearchForPackageOnDisk took   0.085s to resolve Scene1.umap.
+[2022.06.17-11.23.49:131][327]LogNet: Browse: /Game/Maps/Game/Scene1
+[2022.06.17-11.23.49:131][327]LogLoad: LoadMap: /Game/Maps/Game/Scene1
+[2022.06.17-11.23.49:463][327]LogBlueprint: Error: [Compiler InGameGameMode] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.17-11.23.49:464][327]LogBlueprint: Warning: [Compiler InGameGameMode] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-11.23.49:489][327]LogBlueprint: Warning: [Compiler InGameGameMode] [0390.26] Compile of InGameGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 101 ms] (/Game/Blueprints/GameMode/InGameGameMode.InGameGameMode)
+[2022.06.17-11.23.49:689][327]LogAIModule: Creating AISystem for world Scene1
+[2022.06.17-11.23.49:698][327]LogLoad: Game class is 'LanguageGameMode_C'
+[2022.06.17-11.23.49:709][327]LogWorld: Bringing World /Game/Maps/Game/Scene1.Scene1 up for play (max tick rate 0) at 2022.06.17-13.23.49
+[2022.06.17-11.23.49:711][327]LogWorld: Bringing up level for play took: 0.011430
+[2022.06.17-11.23.49:712][327]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.23.49:712][327]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.23.49:712][327]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.23.49:713][327]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.23.49:714][327]LogLoad: Took 0.583042 seconds to LoadMap(/Game/Maps/Game/Scene1)
+[2022.06.17-11.24.34:002][ 59]LogPackageName: SearchForPackageOnDisk took   0.071s to resolve Scene2.umap.
+[2022.06.17-11.24.34:004][ 60]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.24.34:004][ 60]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.24.34:080][ 60]LogPackageName: SearchForPackageOnDisk took   0.075s to resolve Scene2.umap.
+[2022.06.17-11.24.34:080][ 60]LogNet: Browse: /Game/Maps/Game/Scene2
+[2022.06.17-11.24.34:080][ 60]LogLoad: LoadMap: /Game/Maps/Game/Scene2
+[2022.06.17-11.24.34:353][ 60]LogBlueprint: Error: [Compiler InGameGameMode] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.17-11.24.34:353][ 60]LogBlueprint: Warning: [Compiler InGameGameMode] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-11.24.34:379][ 60]LogBlueprint: Warning: [Compiler InGameGameMode] [0435.15] Compile of InGameGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 102 ms] (/Game/Blueprints/GameMode/InGameGameMode.InGameGameMode)
+[2022.06.17-11.24.34:575][ 60]LogAIModule: Creating AISystem for world Scene2
+[2022.06.17-11.24.34:575][ 60]LogLoad: Game class is 'LanguageGameMode_C'
+[2022.06.17-11.24.34:583][ 60]LogWorld: Bringing World /Game/Maps/Game/Scene2.Scene2 up for play (max tick rate 0) at 2022.06.17-13.24.34
+[2022.06.17-11.24.34:583][ 60]LogWorld: Bringing up level for play took: 0.007059
+[2022.06.17-11.24.34:584][ 60]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.24.34:584][ 60]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.24.34:584][ 60]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.24.34:600][ 60]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Speech Recognition Init : SUCCESS
+[2022.06.17-11.24.34:601][ 60]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Keyword Mode : Enabled
+[2022.06.17-11.24.34:602][ 60]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.24.34:603][ 60]LogLoad: Took 0.522450 seconds to LoadMap(/Game/Maps/Game/Scene2)
+[2022.06.17-11.24.34:880][ 68]SpeechRecognitionPlugin: Speech Recognition has started
+[2022.06.17-11.24.35:537][109]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.24.36:104][138]LogPackageName: SearchForPackageOnDisk took   0.084s to resolve Scene1.umap.
+[2022.06.17-11.24.36:107][139]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.24.36:107][139]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.24.36:188][139]LogPackageName: SearchForPackageOnDisk took   0.079s to resolve Scene1.umap.
+[2022.06.17-11.24.36:188][139]LogNet: Browse: /Game/Maps/Game/Scene1
+[2022.06.17-11.24.36:189][139]LogLoad: LoadMap: /Game/Maps/Game/Scene1
+[2022.06.17-11.24.36:514][139]LogBlueprint: Error: [Compiler InGameGameMode] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.17-11.24.36:514][139]LogBlueprint: Warning: [Compiler InGameGameMode] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-11.24.36:539][139]LogBlueprint: Warning: [Compiler InGameGameMode] [0437.31] Compile of InGameGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 94 ms] (/Game/Blueprints/GameMode/InGameGameMode.InGameGameMode)
+[2022.06.17-11.24.36:740][139]LogAIModule: Creating AISystem for world Scene1
+[2022.06.17-11.24.36:748][139]LogLoad: Game class is 'LanguageGameMode_C'
+[2022.06.17-11.24.36:755][139]LogWorld: Bringing World /Game/Maps/Game/Scene1.Scene1 up for play (max tick rate 0) at 2022.06.17-13.24.36
+[2022.06.17-11.24.36:755][139]LogWorld: Bringing up level for play took: 0.006303
+[2022.06.17-11.24.36:756][139]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.24.36:756][139]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.24.36:756][139]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.24.36:756][139]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.24.36:757][139]LogLoad: Took 0.568744 seconds to LoadMap(/Game/Maps/Game/Scene1)
+[2022.06.17-11.24.37:765][186]LogPackageName: SearchForPackageOnDisk took   0.079s to resolve Scene2.umap.
+[2022.06.17-11.24.37:768][187]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.24.37:768][187]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.24.37:845][187]LogPackageName: SearchForPackageOnDisk took   0.076s to resolve Scene2.umap.
+[2022.06.17-11.24.37:845][187]LogNet: Browse: /Game/Maps/Game/Scene2
+[2022.06.17-11.24.37:845][187]LogLoad: LoadMap: /Game/Maps/Game/Scene2
+[2022.06.17-11.24.38:123][187]LogBlueprint: Error: [Compiler InGameGameMode] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.17-11.24.38:124][187]LogBlueprint: Warning: [Compiler InGameGameMode] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-11.24.38:149][187]LogBlueprint: Warning: [Compiler InGameGameMode] [0438.92] Compile of InGameGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 100 ms] (/Game/Blueprints/GameMode/InGameGameMode.InGameGameMode)
+[2022.06.17-11.24.38:336][187]LogAIModule: Creating AISystem for world Scene2
+[2022.06.17-11.24.38:336][187]LogLoad: Game class is 'LanguageGameMode_C'
+[2022.06.17-11.24.38:346][187]LogWorld: Bringing World /Game/Maps/Game/Scene2.Scene2 up for play (max tick rate 0) at 2022.06.17-13.24.38
+[2022.06.17-11.24.38:347][187]LogWorld: Bringing up level for play took: 0.006521
+[2022.06.17-11.24.38:347][187]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.24.38:347][187]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.24.38:347][187]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.24.38:363][187]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Speech Recognition Init : SUCCESS
+[2022.06.17-11.24.38:364][187]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Keyword Mode : Enabled
+[2022.06.17-11.24.38:366][187]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.24.38:366][187]LogLoad: Took 0.521619 seconds to LoadMap(/Game/Maps/Game/Scene2)
+[2022.06.17-11.24.38:659][199]SpeechRecognitionPlugin: Speech Recognition has started
+[2022.06.17-11.24.39:347][242]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.24.42:153][416]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.24.43:722][513]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.24.45:752][639]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.24.46:835][706]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.24.47:626][755]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.24.50:286][920]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.24.50:896][958]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.24.53:093][ 94]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.24.54:336][171]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.24.56:833][325]SpeechRecognitionPlugin: Word: one eighty Start Time: 17.290 End Time 17.480
+[2022.06.17-11.24.56:833][325]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.24.56:833][325]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.24.56:833][325]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.24.57:158][346]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.24.57:625][375]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.24.57:768][383]SpeechRecognitionPlugin: Word: one eighty Start Time: 18.200 End Time 18.430
+[2022.06.17-11.24.57:768][383]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.24.57:768][383]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.24.57:768][383]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.24.58:075][403]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.24.59:642][500]SpeechRecognitionPlugin: Word: turn right Start Time: 18.890 End Time 19.130
+[2022.06.17-11.24.59:642][500]SpeechRecognitionPlugin: turn right
+[2022.06.17-11.24.59:642][500]SpeechRecognitionPlugin: Phrases: turn right 
+[2022.06.17-11.24.59:642][500]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] turn right
+[2022.06.17-11.24.59:966][520]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.25.00:616][560]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.25.02:464][675]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.25.04:177][781]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.25.04:806][820]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.25.07:613][994]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.25.07:918][ 13]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.25.08:564][ 53]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.25.10:756][189]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.25.11:528][236]SpeechRecognitionPlugin: Word: one eighty Start Time: 31.950 End Time 32.150
+[2022.06.17-11.25.11:528][236]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.25.11:528][236]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.25.11:528][236]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.25.11:676][246]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.25.12:771][314]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.25.13:243][343]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.25.16:529][546]SpeechRecognitionPlugin: Word: one eighty Start Time: 35.950 End Time 36.200
+[2022.06.17-11.25.16:529][546]SpeechRecognitionPlugin: Word: one eighty Start Time: 34.290 End Time 34.650
+[2022.06.17-11.25.16:529][546]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.25.16:529][546]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.25.16:529][546]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.25.16:696][557]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.25.23:243][963]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.25.27:306][214]SpeechRecognitionPlugin: Word: one eighty Start Time: 47.170 End Time 47.540
+[2022.06.17-11.25.27:306][214]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.25.27:306][214]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.25.27:306][214]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.25.27:466][225]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.25.28:387][281]SpeechRecognitionPlugin: Word: one eighty Start Time: 48.240 End Time 48.610
+[2022.06.17-11.25.28:387][281]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.25.28:388][281]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.25.28:388][281]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.25.28:550][292]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.25.32:147][515]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.25.37:017][816]SpeechRecognitionPlugin: Word: one eighty Start Time: 56.380 End Time 56.620
+[2022.06.17-11.25.37:018][816]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.25.37:018][816]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.25.37:018][816]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.25.37:147][825]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.25.38:386][901]SpeechRecognitionPlugin: Word: one eighty Start Time: 58.660 End Time 59.010
+[2022.06.17-11.25.38:386][901]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.25.38:387][901]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.25.38:387][901]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.25.38:575][913]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.25.39:813][989]SpeechRecognitionPlugin: Word: turn right Start Time: 59.680 End Time 59.970
+[2022.06.17-11.25.39:814][989]SpeechRecognitionPlugin: turn right
+[2022.06.17-11.25.39:814][989]SpeechRecognitionPlugin: Phrases: turn right 
+[2022.06.17-11.25.39:814][989]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] turn right
+[2022.06.17-11.25.39:982][  0]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.25.41:688][106]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.25.42:300][144]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.25.44:658][290]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.25.45:284][329]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.25.46:097][373]LogPackageName: SearchForPackageOnDisk took   0.090s to resolve Scene1.umap.
+[2022.06.17-11.25.46:102][374]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.25.46:102][374]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.25.46:185][374]LogPackageName: SearchForPackageOnDisk took   0.082s to resolve Scene1.umap.
+[2022.06.17-11.25.46:186][374]LogNet: Browse: /Game/Maps/Game/Scene1
+[2022.06.17-11.25.46:186][374]LogLoad: LoadMap: /Game/Maps/Game/Scene1
+[2022.06.17-11.25.46:495][374]LogBlueprint: Error: [Compiler InGameGameMode] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.17-11.25.46:495][374]LogBlueprint: Warning: [Compiler InGameGameMode] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-11.25.46:520][374]LogBlueprint: Warning: [Compiler InGameGameMode] [0507.29] Compile of InGameGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 98 ms] (/Game/Blueprints/GameMode/InGameGameMode.InGameGameMode)
+[2022.06.17-11.25.46:723][374]LogAIModule: Creating AISystem for world Scene1
+[2022.06.17-11.25.46:730][374]LogLoad: Game class is 'LanguageGameMode_C'
+[2022.06.17-11.25.46:744][374]LogWorld: Bringing World /Game/Maps/Game/Scene1.Scene1 up for play (max tick rate 0) at 2022.06.17-13.25.46
+[2022.06.17-11.25.46:744][374]LogWorld: Bringing up level for play took: 0.013866
+[2022.06.17-11.25.46:747][374]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.25.46:747][374]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.25.46:747][374]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.25.46:748][374]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.25.46:749][374]LogLoad: Took 0.563202 seconds to LoadMap(/Game/Maps/Game/Scene1)
+[2022.06.17-11.31.54:340][986]LogPackageName: SearchForPackageOnDisk took   0.077s to resolve Scene2.umap.
+[2022.06.17-11.31.54:344][987]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.31.54:344][987]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.31.54:421][987]LogPackageName: SearchForPackageOnDisk took   0.076s to resolve Scene2.umap.
+[2022.06.17-11.31.54:421][987]LogNet: Browse: /Game/Maps/Game/Scene2
+[2022.06.17-11.31.54:422][987]LogLoad: LoadMap: /Game/Maps/Game/Scene2
+[2022.06.17-11.31.54:702][987]LogBlueprint: Error: [Compiler InGameGameMode] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.17-11.31.54:702][987]LogBlueprint: Warning: [Compiler InGameGameMode] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-11.31.54:730][987]LogBlueprint: Warning: [Compiler InGameGameMode] [0875.50] Compile of InGameGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 103 ms] (/Game/Blueprints/GameMode/InGameGameMode.InGameGameMode)
+[2022.06.17-11.31.54:916][987]LogAIModule: Creating AISystem for world Scene2
+[2022.06.17-11.31.54:916][987]LogLoad: Game class is 'LanguageGameMode_C'
+[2022.06.17-11.31.54:923][987]LogWorld: Bringing World /Game/Maps/Game/Scene2.Scene2 up for play (max tick rate 0) at 2022.06.17-13.31.54
+[2022.06.17-11.31.54:923][987]LogWorld: Bringing up level for play took: 0.006199
+[2022.06.17-11.31.54:924][987]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.31.54:924][987]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.31.54:924][987]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.31.54:941][987]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Speech Recognition Init : SUCCESS
+[2022.06.17-11.31.54:942][987]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Keyword Mode : Enabled
+[2022.06.17-11.31.54:949][987]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.31.54:951][987]LogLoad: Took 0.529287 seconds to LoadMap(/Game/Maps/Game/Scene2)
+[2022.06.17-11.31.55:398][ 12]SpeechRecognitionPlugin: Speech Recognition has started
+[2022.06.17-11.31.56:040][ 52]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.31.56:993][111]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.31.57:928][169]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.00:875][351]SpeechRecognitionPlugin: Word: one eighty Start Time: 1.810 End Time 2.000
+[2022.06.17-11.32.00:875][351]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.32.00:875][351]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.32.00:875][351]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.32.01:040][362]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.03:215][496]SpeechRecognitionPlugin: Word: one eighty Start Time: 6.930 End Time 7.120
+[2022.06.17-11.32.03:215][496]SpeechRecognitionPlugin: Word: one eighty Start Time: 6.470 End Time 6.720
+[2022.06.17-11.32.03:215][496]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.32.03:215][496]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.32.03:215][496]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.32.03:380][507]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.07:140][740]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.08:215][806]SpeechRecognitionPlugin: Word: enable walk Start Time: 11.120 End Time 12.030
+[2022.06.17-11.32.08:215][806]SpeechRecognitionPlugin: enable walk
+[2022.06.17-11.32.08:215][806]SpeechRecognitionPlugin: Phrases: enable walk 
+[2022.06.17-11.32.08:215][806]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] enable walk
+[2022.06.17-11.32.08:382][817]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.09:474][884]SpeechRecognitionPlugin: Word: enable walk Start Time: 12.780 End Time 13.350
+[2022.06.17-11.32.09:475][884]SpeechRecognitionPlugin: enable walk
+[2022.06.17-11.32.09:475][884]SpeechRecognitionPlugin: Phrases: enable walk 
+[2022.06.17-11.32.09:475][884]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] enable walk
+[2022.06.17-11.32.09:640][895]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.09:960][915]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.10:265][934]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.11:361][  1]SpeechRecognitionPlugin: Word: enable sprint Start Time: 14.280 End Time 15.150
+[2022.06.17-11.32.11:361][  1]SpeechRecognitionPlugin: enable sprint
+[2022.06.17-11.32.11:361][  1]SpeechRecognitionPlugin: Phrases: enable sprint 
+[2022.06.17-11.32.11:361][  1]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] enable sprint
+[2022.06.17-11.32.11:509][ 11]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.12:299][ 60]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.13:406][128]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.14:494][194]SpeechRecognitionPlugin: Word: turn right Start Time: 17.820 End Time 18.250
+[2022.06.17-11.32.14:494][194]SpeechRecognitionPlugin: turn right
+[2022.06.17-11.32.14:494][194]SpeechRecognitionPlugin: Phrases: turn right 
+[2022.06.17-11.32.14:494][194]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] turn right
+[2022.06.17-11.32.15:472][255]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.16:703][331]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.17:971][409]SpeechRecognitionPlugin: Word: one eighty Start Time: 21.320 End Time 21.970
+[2022.06.17-11.32.17:971][409]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.32.17:971][409]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.32.17:971][409]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.32.18:408][437]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.18:751][458]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.20:591][572]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.22:636][698]SpeechRecognitionPlugin: Word: one eighty Start Time: 26.280 End Time 26.590
+[2022.06.17-11.32.22:636][698]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.32.22:636][698]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.32.22:636][698]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.32.22:949][718]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.24:206][796]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.24:660][824]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.25:140][854]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.26:057][911]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.26:544][941]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.27:140][978]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.28:090][ 36]SpeechRecognitionPlugin: Word: one eighty Start Time: 31.930 End Time 32.130
+[2022.06.17-11.32.28:090][ 36]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.32.28:090][ 36]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.32.28:090][ 36]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.32.28:399][ 56]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.29:190][105]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.29:509][125]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.30:751][202]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.31:834][269]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.32:625][318]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.32:933][337]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.33:561][376]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.35:286][482]SpeechRecognitionPlugin: Word: one eighty Start Time: 38.830 End Time 39.020
+[2022.06.17-11.32.35:286][482]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.32.35:286][482]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.32.35:286][482]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.32.35:594][502]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.38:867][704]SpeechRecognitionPlugin: Word: enable walk Start Time: 39.660 End Time 40.140
+[2022.06.17-11.32.38:867][704]SpeechRecognitionPlugin: enable walk
+[2022.06.17-11.32.38:867][704]SpeechRecognitionPlugin: Phrases: enable walk 
+[2022.06.17-11.32.38:867][704]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] enable walk
+[2022.06.17-11.32.39:028][715]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.40:111][782]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.40:578][811]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.40:898][831]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.41:514][869]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.42:922][955]SpeechRecognitionPlugin: Word: enable walk Start Time: 46.250 End Time 46.700
+[2022.06.17-11.32.42:923][955]SpeechRecognitionPlugin: enable walk
+[2022.06.17-11.32.42:923][955]SpeechRecognitionPlugin: Phrases: enable walk 
+[2022.06.17-11.32.42:923][955]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] enable walk
+[2022.06.17-11.32.43:553][995]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.44:344][ 44]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.45:118][ 91]SpeechRecognitionPlugin: Word: enable sprint Start Time: 48.320 End Time 49.020
+[2022.06.17-11.32.45:118][ 91]SpeechRecognitionPlugin: enable sprint
+[2022.06.17-11.32.45:118][ 91]SpeechRecognitionPlugin: Phrases: enable sprint 
+[2022.06.17-11.32.45:118][ 91]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] enable sprint
+[2022.06.17-11.32.45:745][131]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.46:990][208]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.47:778][257]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.49:328][353]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.52:923][575]SpeechRecognitionPlugin: Word: stop movement Start Time: 54.530 End Time 55.140
+[2022.06.17-11.32.52:923][575]SpeechRecognitionPlugin: stop movement
+[2022.06.17-11.32.52:923][575]SpeechRecognitionPlugin: Phrases: stop movement 
+[2022.06.17-11.32.52:923][575]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] stop movement
+[2022.06.17-11.32.53:084][586]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.54:021][644]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.54:652][683]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.57:151][838]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.57:624][867]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.58:084][896]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.32.59:328][973]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.33.00:441][ 42]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.33.01:363][ 99]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.33.02:315][158]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.33.03:556][235]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.33.04:166][272]SpeechRecognitionPlugin: Word: one eighty Start Time: 67.570 End Time 67.760
+[2022.06.17-11.33.04:166][272]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.33.04:166][272]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.33.04:166][272]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.33.04:328][283]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.33.04:962][322]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.33.05:898][380]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.33.06:689][429]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.33.09:814][622]SpeechRecognitionPlugin: Word: one eighty Start Time: 73.520 End Time 73.810
+[2022.06.17-11.33.09:815][622]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.33.09:815][622]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.33.09:815][622]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.33.10:123][642]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.33.11:528][729]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.33.13:091][826]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.33.14:025][883]SpeechRecognitionPlugin: Word: one eighty Start Time: 77.200 End Time 77.450
+[2022.06.17-11.33.14:026][883]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.33.14:026][883]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.33.14:026][883]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.33.14:176][893]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.33.14:983][943]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.33.15:591][980]SpeechRecognitionPlugin: Word: one eighty Start Time: 78.950 End Time 79.180
+[2022.06.17-11.33.15:591][980]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.33.15:591][980]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.33.15:591][980]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.33.15:738][990]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.33.16:206][ 19]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.33.16:996][ 68]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.33.17:628][107]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.33.18:560][165]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.33.19:499][223]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.33.21:062][320]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.33.21:836][368]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.33.22:463][407]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.33.22:715][416]LogPackageName: SearchForPackageOnDisk took   0.090s to resolve Scene1.umap.
+[2022.06.17-11.33.22:717][417]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.33.22:717][417]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.33.22:806][417]LogPackageName: SearchForPackageOnDisk took   0.088s to resolve Scene1.umap.
+[2022.06.17-11.33.22:806][417]LogNet: Browse: /Game/Maps/Game/Scene1
+[2022.06.17-11.33.22:806][417]LogLoad: LoadMap: /Game/Maps/Game/Scene1
+[2022.06.17-11.33.23:143][417]LogBlueprint: Error: [Compiler InGameGameMode] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.17-11.33.23:145][417]LogBlueprint: Warning: [Compiler InGameGameMode] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-11.33.23:170][417]LogBlueprint: Warning: [Compiler InGameGameMode] [0963.94] Compile of InGameGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 99 ms] (/Game/Blueprints/GameMode/InGameGameMode.InGameGameMode)
+[2022.06.17-11.33.23:389][417]LogAIModule: Creating AISystem for world Scene1
+[2022.06.17-11.33.23:397][417]LogLoad: Game class is 'LanguageGameMode_C'
+[2022.06.17-11.33.23:411][417]LogWorld: Bringing World /Game/Maps/Game/Scene1.Scene1 up for play (max tick rate 0) at 2022.06.17-13.33.23
+[2022.06.17-11.33.23:411][417]LogWorld: Bringing up level for play took: 0.013510
+[2022.06.17-11.33.23:412][417]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.33.23:412][417]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.33.23:412][417]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.33.23:412][417]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.33.23:413][417]LogLoad: Took 0.606397 seconds to LoadMap(/Game/Maps/Game/Scene1)
+[2022.06.17-11.36.12:326][395]LogPackageName: SearchForPackageOnDisk took   0.223s to resolve Scene2.umap.
+[2022.06.17-11.36.12:330][396]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.36.12:330][396]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.36.12:532][396]LogPackageName: SearchForPackageOnDisk took   0.202s to resolve Scene2.umap.
+[2022.06.17-11.36.12:533][396]LogNet: Browse: /Game/Maps/Game/Scene2
+[2022.06.17-11.36.12:533][396]LogLoad: LoadMap: /Game/Maps/Game/Scene2
+[2022.06.17-11.36.13:131][396]LogBlueprint: Error: [Compiler InGameGameMode] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.17-11.36.13:132][396]LogBlueprint: Warning: [Compiler InGameGameMode] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-11.36.13:191][396]LogBlueprint: Warning: [Compiler InGameGameMode] [1133.96] Compile of InGameGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 223 ms] (/Game/Blueprints/GameMode/InGameGameMode.InGameGameMode)
+[2022.06.17-11.36.13:615][396]LogAIModule: Creating AISystem for world Scene2
+[2022.06.17-11.36.13:616][396]LogLoad: Game class is 'LanguageGameMode_C'
+[2022.06.17-11.36.13:631][396]LogWorld: Bringing World /Game/Maps/Game/Scene2.Scene2 up for play (max tick rate 0) at 2022.06.17-13.36.13
+[2022.06.17-11.36.13:631][396]LogWorld: Bringing up level for play took: 0.013162
+[2022.06.17-11.36.13:633][396]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.36.13:633][396]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.36.13:633][396]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.36.13:652][396]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Speech Recognition Init : SUCCESS
+[2022.06.17-11.36.13:652][396]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Keyword Mode : Enabled
+[2022.06.17-11.36.13:655][396]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.36.13:657][396]LogLoad: Took 1.124111 seconds to LoadMap(/Game/Maps/Game/Scene2)
+[2022.06.17-11.36.14:261][414]SpeechRecognitionPlugin: Speech Recognition has started
+[2022.06.17-11.36.15:326][446]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.16:571][483]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.18:774][549]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.19:714][578]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.20:950][615]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.21:890][643]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.22:999][676]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.23:613][695]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.25:489][751]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.27:840][821]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.28:917][854]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.30:501][901]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.32:356][957]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.32:837][971]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.34:237][ 13]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.35:968][ 65]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.37:061][ 98]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.37:995][126]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.38:928][154]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.39:393][168]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.41:431][229]SpeechRecognitionPlugin: Word: kick the ball Start Time: 24.280 End Time 24.620
+[2022.06.17-11.36.41:431][229]SpeechRecognitionPlugin: kick the ball
+[2022.06.17-11.36.41:431][229]SpeechRecognitionPlugin: Phrases: kick the ball 
+[2022.06.17-11.36.41:431][229]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] kick the ball
+[2022.06.17-11.36.41:582][234]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.44:393][318]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.45:648][356]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.45:965][365]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.46:412][379]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.47:359][407]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.47:677][417]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.49:704][477]SpeechRecognitionPlugin: Word: one eighty Start Time: 33.510 End Time 33.730
+[2022.06.17-11.36.49:704][477]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.36.49:704][477]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.36.49:704][477]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.36.49:864][482]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.50:639][505]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.51:585][534]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.52:354][557]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.52:986][576]SpeechRecognitionPlugin: Word: one eighty Start Time: 37.260 End Time 37.660
+[2022.06.17-11.36.52:986][576]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.36.52:986][576]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.36.52:986][576]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.36.53:463][590]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.53:766][599]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.54:704][627]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.56:273][674]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.56:885][693]SpeechRecognitionPlugin: Word: one eighty Start Time: 40.880 End Time 41.390
+[2022.06.17-11.36.56:885][693]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.36.56:885][693]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.36.56:885][693]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.36.57:211][703]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.58:611][745]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.36.59:557][773]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.00:181][792]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.01:585][834]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.04:396][918]SpeechRecognitionPlugin: Word: one eighty Start Time: 48.800 End Time 49.050
+[2022.06.17-11.37.04:396][918]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.37.04:396][918]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.37.04:396][918]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.37.04:718][928]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.05:168][941]SpeechRecognitionPlugin: Word: turn right Start Time: 49.320 End Time 49.620
+[2022.06.17-11.37.05:168][941]SpeechRecognitionPlugin: turn right
+[2022.06.17-11.37.05:168][941]SpeechRecognitionPlugin: Phrases: turn right 
+[2022.06.17-11.37.05:168][941]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] turn right
+[2022.06.17-11.37.05:330][946]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.06:739][988]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.08:770][ 49]SpeechRecognitionPlugin: Word: one eighty Start Time: 52.680 End Time 52.950
+[2022.06.17-11.37.08:770][ 49]SpeechRecognitionPlugin: Word: turn left Start Time: 52.480 End Time 52.810
+[2022.06.17-11.37.08:770][ 49]SpeechRecognitionPlugin: Word: turn right Start Time: 52.480 End Time 52.820
+[2022.06.17-11.37.08:770][ 49]SpeechRecognitionPlugin: turn left
+[2022.06.17-11.37.08:770][ 49]SpeechRecognitionPlugin: Phrases: turn left 
+[2022.06.17-11.37.08:770][ 49]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.37.08:770][ 49]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.37.08:770][ 49]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] turn left
+[2022.06.17-11.37.08:770][ 49]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.37.08:916][ 54]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.09:704][ 77]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.10:334][ 96]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.11:890][143]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.12:835][171]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.15:496][251]SpeechRecognitionPlugin: Word: one eighty Start Time: 57.450 End Time 57.800
+[2022.06.17-11.37.15:496][251]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.37.15:496][251]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.37.15:496][251]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.37.15:966][265]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.16:571][283]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.17:213][303]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.20:495][401]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.24:067][508]SpeechRecognitionPlugin: Word: one eighty Start Time: 66.720 End Time 67.180
+[2022.06.17-11.37.24:067][508]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.37.24:067][508]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.37.24:067][508]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.37.24:243][514]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.26:897][593]SpeechRecognitionPlugin: Word: one eighty Start Time: 69.460 End Time 69.730
+[2022.06.17-11.37.26:897][593]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.37.26:897][593]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.37.26:897][593]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.37.27:216][603]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.30:962][715]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.32:049][748]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.33:298][785]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.33:777][800]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.35:805][860]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.39:540][972]SpeechRecognitionPlugin: Word: one eighty Start Time: 81.080 End Time 81.410
+[2022.06.17-11.37.39:540][972]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.37.39:540][972]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.37.39:540][972]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.37.39:857][982]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.40:639][  5]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.41:582][ 34]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.42:363][ 57]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.43:465][ 90]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.45:029][137]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.37.48:460][240]SpeechRecognitionPlugin: Word: one eighty Start Time: 90.520 End Time 90.730
+[2022.06.17-11.37.48:460][240]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.37.48:460][240]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.37.48:460][240]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.37.48:611][245]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.38.02:682][667]SpeechRecognitionPlugin: Word: one eighty Start Time: 106.960 End Time 107.150
+[2022.06.17-11.38.02:682][667]SpeechRecognitionPlugin: Word: one eighty Start Time: 99.280 End Time 99.530
+[2022.06.17-11.38.02:682][667]SpeechRecognitionPlugin: Word: one eighty Start Time: 98.010 End Time 98.210
+[2022.06.17-11.38.02:682][667]SpeechRecognitionPlugin: Word: one eighty Start Time: 97.520 End Time 97.730
+[2022.06.17-11.38.02:682][667]SpeechRecognitionPlugin: Word: one eighty Start Time: 95.230 End Time 95.630
+[2022.06.17-11.38.02:682][667]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.38.02:682][667]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.38.02:682][667]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.38.02:986][676]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.38.04:081][709]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.38.08:455][840]SpeechRecognitionPlugin: Word: one eighty Start Time: 109.690 End Time 109.900
+[2022.06.17-11.38.08:455][840]SpeechRecognitionPlugin: Word: one eighty Start Time: 108.960 End Time 109.190
+[2022.06.17-11.38.08:455][840]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.38.08:455][840]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.38.08:455][840]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.38.08:611][845]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.38.08:926][854]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.38.12:368][957]SpeechRecognitionPlugin: Word: one eighty Start Time: 115.830 End Time 116.090
+[2022.06.17-11.38.12:368][957]SpeechRecognitionPlugin: Word: one eighty Start Time: 115.350 End Time 115.550
+[2022.06.17-11.38.12:368][957]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.38.12:368][957]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.38.12:368][957]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.38.12:521][962]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.38.14:680][ 20]LogPackageName: SearchForPackageOnDisk took   0.205s to resolve Scene1.umap.
+[2022.06.17-11.38.14:683][ 21]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.38.14:683][ 21]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.38.14:895][ 21]LogPackageName: SearchForPackageOnDisk took   0.211s to resolve Scene1.umap.
+[2022.06.17-11.38.14:895][ 21]LogNet: Browse: /Game/Maps/Game/Scene1
+[2022.06.17-11.38.14:896][ 21]LogLoad: LoadMap: /Game/Maps/Game/Scene1
+[2022.06.17-11.38.15:577][ 21]LogBlueprint: Error: [Compiler InGameGameMode] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.17-11.38.15:579][ 21]LogBlueprint: Warning: [Compiler InGameGameMode] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-11.38.15:633][ 21]LogBlueprint: Warning: [Compiler InGameGameMode] [1256.41] Compile of InGameGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 224 ms] (/Game/Blueprints/GameMode/InGameGameMode.InGameGameMode)
+[2022.06.17-11.38.16:048][ 21]LogAIModule: Creating AISystem for world Scene1
+[2022.06.17-11.38.16:063][ 21]LogLoad: Game class is 'LanguageGameMode_C'
+[2022.06.17-11.38.16:081][ 21]LogWorld: Bringing World /Game/Maps/Game/Scene1.Scene1 up for play (max tick rate 0) at 2022.06.17-13.38.16
+[2022.06.17-11.38.16:082][ 21]LogWorld: Bringing up level for play took: 0.017144
+[2022.06.17-11.38.16:084][ 21]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.38.16:084][ 21]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.38.16:084][ 21]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.38.16:086][ 21]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.38.16:087][ 21]LogLoad: Took 1.191275 seconds to LoadMap(/Game/Maps/Game/Scene1)
+[2022.06.17-11.41.54:304][557]LogPackageName: SearchForPackageOnDisk took   0.219s to resolve Scene2.umap.
+[2022.06.17-11.41.54:309][558]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.41.54:309][558]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.41.54:510][558]LogPackageName: SearchForPackageOnDisk took   0.201s to resolve Scene2.umap.
+[2022.06.17-11.41.54:510][558]LogNet: Browse: /Game/Maps/Game/Scene2
+[2022.06.17-11.41.54:511][558]LogLoad: LoadMap: /Game/Maps/Game/Scene2
+[2022.06.17-11.41.55:108][558]LogBlueprint: Error: [Compiler InGameGameMode] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.17-11.41.55:109][558]LogBlueprint: Warning: [Compiler InGameGameMode] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-11.41.55:165][558]LogBlueprint: Warning: [Compiler InGameGameMode] [1475.94] Compile of InGameGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 219 ms] (/Game/Blueprints/GameMode/InGameGameMode.InGameGameMode)
+[2022.06.17-11.41.55:572][558]LogAIModule: Creating AISystem for world Scene2
+[2022.06.17-11.41.55:574][558]LogLoad: Game class is 'LanguageGameMode_C'
+[2022.06.17-11.41.55:592][558]LogWorld: Bringing World /Game/Maps/Game/Scene2.Scene2 up for play (max tick rate 0) at 2022.06.17-13.41.55
+[2022.06.17-11.41.55:593][558]LogWorld: Bringing up level for play took: 0.016384
+[2022.06.17-11.41.55:595][558]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.41.55:595][558]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.41.55:595][558]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.41.55:614][558]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Speech Recognition Init : SUCCESS
+[2022.06.17-11.41.55:614][558]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Keyword Mode : Enabled
+[2022.06.17-11.41.55:617][558]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.41.55:618][558]LogLoad: Took 1.106902 seconds to LoadMap(/Game/Maps/Game/Scene2)
+[2022.06.17-11.41.56:184][572]SpeechRecognitionPlugin: Speech Recognition has started
+[2022.06.17-11.41.57:253][604]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.41.58:668][647]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.01:635][736]SpeechRecognitionPlugin: Word: one eighty Start Time: 3.020 End Time 3.260
+[2022.06.17-11.42.01:635][736]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.42.01:635][736]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.42.01:635][736]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.42.01:788][740]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.02:578][764]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.04:136][811]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.06:013][867]SpeechRecognitionPlugin: Word: one eighty Start Time: 7.610 End Time 7.900
+[2022.06.17-11.42.06:013][867]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.42.06:013][867]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.42.06:013][867]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.42.06:321][876]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.07:089][899]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.07:574][914]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.07:896][923]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.09:298][965]SpeechRecognitionPlugin: Word: one eighty Start Time: 11.280 End Time 11.610
+[2022.06.17-11.42.09:298][965]SpeechRecognitionPlugin: Word: one eighty Start Time: 10.670 End Time 11.100
+[2022.06.17-11.42.09:298][965]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.42.09:298][965]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.42.09:299][965]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.42.09:452][970]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.10:063][988]SpeechRecognitionPlugin: Word: one eighty Start Time: 12.210 End Time 12.740
+[2022.06.17-11.42.10:063][988]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.42.10:063][988]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.42.10:063][988]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.42.10:235][994]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.11:017][ 17]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.12:894][ 73]SpeechRecognitionPlugin: Word: one eighty Start Time: 14.160 End Time 14.420
+[2022.06.17-11.42.12:894][ 73]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.42.12:894][ 73]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.42.12:894][ 73]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.42.13:201][ 83]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.14:594][124]SpeechRecognitionPlugin: Word: stop movement Start Time: 16.330 End Time 17.130
+[2022.06.17-11.42.14:594][124]SpeechRecognitionPlugin: stop movement
+[2022.06.17-11.42.14:594][124]SpeechRecognitionPlugin: Phrases: stop movement 
+[2022.06.17-11.42.14:594][124]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] stop movement
+[2022.06.17-11.42.15:387][148]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.15:846][162]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.17:573][214]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.17:892][223]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.18:200][233]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.20:686][307]SpeechRecognitionPlugin: Word: one eighty Start Time: 22.970 End Time 23.220
+[2022.06.17-11.42.20:686][307]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.42.20:686][307]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.42.20:686][307]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.42.21:792][340]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.22:262][354]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.22:578][364]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.24:144][411]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.25:538][453]SpeechRecognitionPlugin: Word: one eighty Start Time: 26.880 End Time 27.170
+[2022.06.17-11.42.25:538][453]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.42.25:538][453]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.42.25:538][453]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.42.25:699][458]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.31:171][622]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.31:486][631]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.31:948][645]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.33:203][683]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.33:819][701]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.36:640][786]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.41:788][940]SpeechRecognitionPlugin: Word: one eighty Start Time: 43.510 End Time 43.800
+[2022.06.17-11.42.41:788][940]SpeechRecognitionPlugin: Word: one eighty Start Time: 39.690 End Time 39.950
+[2022.06.17-11.42.41:788][940]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.42.41:788][940]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.42.41:788][940]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.42.42:262][954]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.44:924][ 34]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.46:794][ 90]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.48:189][132]SpeechRecognitionPlugin: Word: one eighty Start Time: 50.010 End Time 50.250
+[2022.06.17-11.42.48:189][132]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.42.48:189][132]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.42.48:189][132]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.42.48:349][137]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.49:146][161]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.49:759][179]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.42.51:322][226]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.43.07:896][723]SpeechRecognitionPlugin: Word: one eighty Start Time: 69.130 End Time 69.340
+[2022.06.17-11.43.07:896][723]SpeechRecognitionPlugin: Word: one eighty Start Time: 68.700 End Time 68.960
+[2022.06.17-11.43.07:896][723]SpeechRecognitionPlugin: Word: one eighty Start Time: 67.860 End Time 68.120
+[2022.06.17-11.43.07:896][723]SpeechRecognitionPlugin: Word: one eighty Start Time: 66.480 End Time 66.730
+[2022.06.17-11.43.07:897][723]SpeechRecognitionPlugin: Word: one eighty Start Time: 63.340 End Time 63.670
+[2022.06.17-11.43.07:897][723]SpeechRecognitionPlugin: Word: one eighty Start Time: 59.520 End Time 59.990
+[2022.06.17-11.43.07:897][723]SpeechRecognitionPlugin: Word: one eighty Start Time: 59.090 End Time 59.370
+[2022.06.17-11.43.07:897][723]SpeechRecognitionPlugin: Word: kick the ball Start Time: 54.940 End Time 55.280
+[2022.06.17-11.43.07:897][723]SpeechRecognitionPlugin: Word: one eighty Start Time: 54.900 End Time 55.130
+[2022.06.17-11.43.07:897][723]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.43.07:897][723]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.43.07:897][723]SpeechRecognitionPlugin: kick the ball
+[2022.06.17-11.43.07:897][723]SpeechRecognitionPlugin: Phrases: kick the ball 
+[2022.06.17-11.43.07:897][723]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.43.07:897][723]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] kick the ball
+[2022.06.17-11.43.08:040][728]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.43.14:452][920]SpeechRecognitionPlugin: Word: one eighty Start Time: 74.430 End Time 74.840
+[2022.06.17-11.43.14:452][920]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.43.14:452][920]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.43.14:452][920]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.43.14:603][925]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.43.14:923][934]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.43.17:096][999]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.43.18:662][ 46]SpeechRecognitionPlugin: Word: one eighty Start Time: 80.680 End Time 80.920
+[2022.06.17-11.43.18:662][ 46]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.43.18:662][ 46]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.43.18:662][ 46]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.43.18:983][ 56]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.43.19:295][ 65]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.43.26:318][276]SpeechRecognitionPlugin: Word: one eighty Start Time: 88.050 End Time 88.230
+[2022.06.17-11.43.26:318][276]SpeechRecognitionPlugin: Word: one eighty Start Time: 83.460 End Time 83.670
+[2022.06.17-11.43.26:318][276]SpeechRecognitionPlugin: Word: one eighty Start Time: 82.280 End Time 82.480
+[2022.06.17-11.43.26:318][276]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.43.26:318][276]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.43.26:318][276]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.43.26:481][281]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.43.30:703][408]SpeechRecognitionPlugin: Word: one eighty Start Time: 93.020 End Time 93.310
+[2022.06.17-11.43.30:703][408]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.43.30:703][408]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.43.30:703][408]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.43.30:850][412]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.43.31:789][440]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.43.34:762][529]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.43.36:785][590]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.43.38:349][637]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.43.38:669][647]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.43.41:486][731]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.43.42:894][773]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.43.45:071][839]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.43.47:894][923]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.43.48:665][947]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.43.51:797][ 40]SpeechRecognitionPlugin: Word: one eighty Start Time: 114.390 End Time 114.610
+[2022.06.17-11.43.51:797][ 40]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.43.51:797][ 40]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.43.51:797][ 40]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.43.51:939][ 45]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.43.52:735][ 69]SpeechRecognitionPlugin: Word: one eighty Start Time: 115.090 End Time 115.520
+[2022.06.17-11.43.52:735][ 69]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.43.52:735][ 69]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.43.52:735][ 69]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.43.52:894][ 73]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.43.54:128][110]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.43.54:923][134]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.43.59:451][270]SpeechRecognitionPlugin: Word: one eighty Start Time: 120.050 End Time 120.360
+[2022.06.17-11.43.59:451][270]SpeechRecognitionPlugin: Word: one eighty Start Time: 118.720 End Time 119.000
+[2022.06.17-11.43.59:451][270]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.43.59:451][270]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.43.59:451][270]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.43.59:599][275]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.44.00:232][294]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.44.02:094][349]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.44.02:734][369]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.44.04:453][420]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.44.08:499][542]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.44.11:787][640]SpeechRecognitionPlugin: Word: one eighty Start Time: 132.430 End Time 132.660
+[2022.06.17-11.44.11:787][640]SpeechRecognitionPlugin: Word: kick the ball Start Time: 131.280 End Time 131.640
+[2022.06.17-11.44.11:787][640]SpeechRecognitionPlugin: kick the ball
+[2022.06.17-11.44.11:787][640]SpeechRecognitionPlugin: Phrases: kick the ball 
+[2022.06.17-11.44.11:787][640]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.44.11:787][640]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.44.11:787][640]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] kick the ball
+[2022.06.17-11.44.11:787][640]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.44.12:095][649]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.44.15:702][758]SpeechRecognitionPlugin: Word: one eighty Start Time: 136.640 End Time 136.950
+[2022.06.17-11.44.15:702][758]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.44.15:702][758]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.44.15:702][758]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.44.15:853][762]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.44.17:256][804]SpeechRecognitionPlugin: Word: one eighty Start Time: 139.840 End Time 140.050
+[2022.06.17-11.44.17:256][804]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.44.17:256][804]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.44.17:256][804]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.44.17:419][809]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.44.19:283][865]SpeechRecognitionPlugin: Word: one eighty Start Time: 140.750 End Time 141.030
+[2022.06.17-11.44.19:283][865]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.44.19:283][865]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.44.19:283][865]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.44.19:454][870]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.44.29:139][161]SpeechRecognitionPlugin: Word: one eighty Start Time: 150.490 End Time 150.870
+[2022.06.17-11.44.29:139][161]SpeechRecognitionPlugin: Word: one eighty Start Time: 148.880 End Time 149.190
+[2022.06.17-11.44.29:139][161]SpeechRecognitionPlugin: Word: one eighty Start Time: 148.620 End Time 148.880
+[2022.06.17-11.44.29:139][161]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.44.29:139][161]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.44.29:139][161]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.44.29:295][165]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.44.33:035][278]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.44.33:980][306]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.44.43:520][592]SpeechRecognitionPlugin: Word: one eighty Start Time: 157.910 End Time 158.250
+[2022.06.17-11.44.43:520][592]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.44.43:520][592]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.44.43:520][592]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.44.43:672][597]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.44.49:454][770]SpeechRecognitionPlugin: Word: one eighty Start Time: 171.600 End Time 171.840
+[2022.06.17-11.44.49:454][770]SpeechRecognitionPlugin: Word: one eighty Start Time: 166.500 End Time 166.780
+[2022.06.17-11.44.49:454][770]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.44.49:454][770]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.44.49:454][770]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.44.49:600][775]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.45.00:060][ 88]SpeechRecognitionPlugin: Word: one eighty Start Time: 180.270 End Time 180.680
+[2022.06.17-11.45.00:060][ 88]SpeechRecognitionPlugin: Word: turn right Start Time: 180.270 End Time 180.760
+[2022.06.17-11.45.00:060][ 88]SpeechRecognitionPlugin: Word: one eighty Start Time: 174.380 End Time 174.640
+[2022.06.17-11.45.00:060][ 88]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.45.00:060][ 88]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.45.00:060][ 88]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.45.00:232][ 94]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.45.00:690][107]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.45.04:756][229]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.45.07:728][318]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.45.09:759][379]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.45.11:645][436]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.45.14:598][525]SpeechRecognitionPlugin: Word: one eighty Start Time: 195.970 End Time 196.250
+[2022.06.17-11.45.14:598][525]SpeechRecognitionPlugin: Word: one eighty Start Time: 195.740 End Time 195.940
+[2022.06.17-11.45.14:598][525]SpeechRecognitionPlugin: Word: one eighty Start Time: 194.660 End Time 194.840
+[2022.06.17-11.45.14:598][525]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.45.14:598][525]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.45.14:598][525]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.45.14:765][530]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.45.15:232][544]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.45.17:568][614]SpeechRecognitionPlugin: Word: one eighty Start Time: 199.930 End Time 200.280
+[2022.06.17-11.45.17:568][614]SpeechRecognitionPlugin: Word: kick the ball Start Time: 198.780 End Time 199.090
+[2022.06.17-11.45.17:568][614]SpeechRecognitionPlugin: kick the ball
+[2022.06.17-11.45.17:568][614]SpeechRecognitionPlugin: Phrases: kick the ball 
+[2022.06.17-11.45.17:568][614]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.45.17:568][614]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.45.17:568][614]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] kick the ball
+[2022.06.17-11.45.17:568][614]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.45.17:734][619]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.45.18:350][637]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.45.19:145][661]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.45.23:035][778]SpeechRecognitionPlugin: Word: one eighty Start Time: 205.410 End Time 205.620
+[2022.06.17-11.45.23:035][778]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.45.23:035][778]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.45.23:035][778]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.45.23:202][783]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.45.27:258][904]SpeechRecognitionPlugin: Word: one eighty Start Time: 209.780 End Time 209.960
+[2022.06.17-11.45.27:258][904]SpeechRecognitionPlugin: Word: one eighty Start Time: 208.910 End Time 209.200
+[2022.06.17-11.45.27:258][904]SpeechRecognitionPlugin: Word: one eighty Start Time: 206.710 End Time 206.920
+[2022.06.17-11.45.27:258][904]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.45.27:258][904]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.45.27:258][904]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.45.27:420][909]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.45.43:031][378]SpeechRecognitionPlugin: Word: one eighty Start Time: 222.330 End Time 222.550
+[2022.06.17-11.45.43:031][378]SpeechRecognitionPlugin: Word: one eighty Start Time: 219.880 End Time 220.250
+[2022.06.17-11.45.43:031][378]SpeechRecognitionPlugin: Word: one eighty Start Time: 211.670 End Time 211.880
+[2022.06.17-11.45.43:031][378]SpeechRecognitionPlugin: Word: turn right Start Time: 211.590 End Time 211.810
+[2022.06.17-11.45.43:031][378]SpeechRecognitionPlugin: Word: one eighty Start Time: 210.800 End Time 211.000
+[2022.06.17-11.45.43:031][378]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.45.43:031][378]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.45.43:031][378]SpeechRecognitionPlugin: turn right
+[2022.06.17-11.45.43:031][378]SpeechRecognitionPlugin: Phrases: turn right 
+[2022.06.17-11.45.43:031][378]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.45.43:031][378]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] turn right
+[2022.06.17-11.45.43:203][383]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.45.43:516][392]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.45.51:168][622]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.45.52:264][655]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.45.55:218][743]SpeechRecognitionPlugin: Word: turn left Start Time: 236.470 End Time 236.940
+[2022.06.17-11.45.55:218][743]SpeechRecognitionPlugin: turn left
+[2022.06.17-11.45.55:218][743]SpeechRecognitionPlugin: Phrases: turn left 
+[2022.06.17-11.45.55:218][743]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] turn left
+[2022.06.17-11.45.55:390][748]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.45.57:581][814]SpeechRecognitionPlugin: Word: one eighty Start Time: 240.030 End Time 240.240
+[2022.06.17-11.45.57:581][814]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.45.57:581][814]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.45.57:581][814]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.45.57:732][819]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.46.04:590][ 24]SpeechRecognitionPlugin: Word: one eighty Start Time: 246.720 End Time 247.000
+[2022.06.17-11.46.04:590][ 24]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.46.04:590][ 24]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.46.04:590][ 24]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.46.04:765][ 30]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.46.08:196][132]SpeechRecognitionPlugin: Word: one eighty Start Time: 249.700 End Time 250.010
+[2022.06.17-11.46.08:196][132]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.46.08:196][132]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.46.08:196][132]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.46.08:348][137]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.46.11:007][217]SpeechRecognitionPlugin: Word: turn right Start Time: 251.280 End Time 252.040
+[2022.06.17-11.46.11:007][217]SpeechRecognitionPlugin: turn right
+[2022.06.17-11.46.11:007][217]SpeechRecognitionPlugin: Phrases: turn right 
+[2022.06.17-11.46.11:007][217]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] turn right
+[2022.06.17-11.46.11:173][222]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.46.12:423][259]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.46.13:818][301]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.46.16:477][381]SpeechRecognitionPlugin: Word: enable sprint Start Time: 257.680 End Time 258.350
+[2022.06.17-11.46.16:477][381]SpeechRecognitionPlugin: Word: enable walk Start Time: 257.680 End Time 258.180
+[2022.06.17-11.46.16:477][381]SpeechRecognitionPlugin: Word: one eighty Start Time: 257.400 End Time 257.720
+[2022.06.17-11.46.16:477][381]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.46.16:477][381]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.46.16:477][381]SpeechRecognitionPlugin: enable sprint
+[2022.06.17-11.46.16:477][381]SpeechRecognitionPlugin: Phrases: enable sprint 
+[2022.06.17-11.46.16:477][381]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.46.16:477][381]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] enable sprint
+[2022.06.17-11.46.16:640][386]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.46.17:730][419]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.46.20:074][489]SpeechRecognitionPlugin: Word: one eighty Start Time: 261.190 End Time 261.620
+[2022.06.17-11.46.20:074][489]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.46.20:074][489]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.46.20:075][489]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.46.20:399][499]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.46.21:323][526]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.46.22:267][555]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.46.22:561][563]SpeechRecognitionPlugin: Word: one eighty Start Time: 264.920 End Time 265.280
+[2022.06.17-11.46.22:561][563]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.46.22:561][563]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.46.22:562][563]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.46.22:733][569]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.46.26:174][672]SpeechRecognitionPlugin: Word: one eighty Start Time: 267.610 End Time 267.950
+[2022.06.17-11.46.26:174][672]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.46.26:174][672]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.46.26:174][672]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.46.26:481][681]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.46.31:642][836]SpeechRecognitionPlugin: Word: one eighty Start Time: 270.860 End Time 271.110
+[2022.06.17-11.46.31:642][836]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.46.31:642][836]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.46.31:642][836]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.46.31:789][840]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.46.32:109][843]LogPackageName: SearchForPackageOnDisk took   0.214s to resolve Scene1.umap.
+[2022.06.17-11.46.32:113][844]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.46.32:113][844]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.46.32:317][844]LogPackageName: SearchForPackageOnDisk took   0.203s to resolve Scene1.umap.
+[2022.06.17-11.46.32:317][844]LogNet: Browse: /Game/Maps/Game/Scene1
+[2022.06.17-11.46.32:318][844]LogLoad: LoadMap: /Game/Maps/Game/Scene1
+[2022.06.17-11.46.32:991][844]LogBlueprint: Error: [Compiler InGameGameMode] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.17-11.46.32:993][844]LogBlueprint: Warning: [Compiler InGameGameMode] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-11.46.33:047][844]LogBlueprint: Warning: [Compiler InGameGameMode] [1753.82] Compile of InGameGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 216 ms] (/Game/Blueprints/GameMode/InGameGameMode.InGameGameMode)
+[2022.06.17-11.46.33:477][844]LogAIModule: Creating AISystem for world Scene1
+[2022.06.17-11.46.33:487][844]LogLoad: Game class is 'LanguageGameMode_C'
+[2022.06.17-11.46.33:504][844]LogWorld: Bringing World /Game/Maps/Game/Scene1.Scene1 up for play (max tick rate 0) at 2022.06.17-13.46.33
+[2022.06.17-11.46.33:505][844]LogWorld: Bringing up level for play took: 0.014839
+[2022.06.17-11.46.33:508][844]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.46.33:508][844]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.46.33:508][844]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.46.33:510][844]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.46.33:511][844]LogLoad: Took 1.193865 seconds to LoadMap(/Game/Maps/Game/Scene1)
+[2022.06.17-11.50.00:709][ 44]LogPackageName: SearchForPackageOnDisk took   0.217s to resolve Scene2.umap.
+[2022.06.17-11.50.00:713][ 45]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.50.00:713][ 45]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.50.00:909][ 45]LogPackageName: SearchForPackageOnDisk took   0.195s to resolve Scene2.umap.
+[2022.06.17-11.50.00:910][ 45]LogNet: Browse: /Game/Maps/Game/Scene2
+[2022.06.17-11.50.00:910][ 45]LogLoad: LoadMap: /Game/Maps/Game/Scene2
+[2022.06.17-11.50.01:505][ 45]LogBlueprint: Error: [Compiler InGameGameMode] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.17-11.50.01:507][ 45]LogBlueprint: Warning: [Compiler InGameGameMode] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-11.50.01:564][ 45]LogBlueprint: Warning: [Compiler InGameGameMode] [1962.34] Compile of InGameGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 219 ms] (/Game/Blueprints/GameMode/InGameGameMode.InGameGameMode)
+[2022.06.17-11.50.01:983][ 45]LogAIModule: Creating AISystem for world Scene2
+[2022.06.17-11.50.01:983][ 45]LogLoad: Game class is 'LanguageGameMode_C'
+[2022.06.17-11.50.02:001][ 45]LogWorld: Bringing World /Game/Maps/Game/Scene2.Scene2 up for play (max tick rate 0) at 2022.06.17-13.50.02
+[2022.06.17-11.50.02:003][ 45]LogWorld: Bringing up level for play took: 0.016296
+[2022.06.17-11.50.02:005][ 45]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.50.02:005][ 45]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.50.02:005][ 45]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.50.02:025][ 45]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Speech Recognition Init : SUCCESS
+[2022.06.17-11.50.02:026][ 45]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Keyword Mode : Enabled
+[2022.06.17-11.50.02:028][ 45]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.50.02:029][ 45]LogLoad: Took 1.119451 seconds to LoadMap(/Game/Maps/Game/Scene2)
+[2022.06.17-11.50.02:299][ 46]LogPackageName: SearchForPackageOnDisk took   0.225s to resolve Scene1.umap.
+[2022.06.17-11.50.02:332][ 47]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.50.02:332][ 47]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.50.02:560][ 47]LogPackageName: SearchForPackageOnDisk took   0.227s to resolve Scene1.umap.
+[2022.06.17-11.50.02:560][ 47]LogNet: Browse: /Game/Maps/Game/Scene1
+[2022.06.17-11.50.02:561][ 47]LogLoad: LoadMap: /Game/Maps/Game/Scene1
+[2022.06.17-11.50.03:629][ 47]SpeechRecognitionPlugin: Speech Recognition has started
+[2022.06.17-11.50.04:218][ 47]LogBlueprint: Error: [Compiler InGameGameMode] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.17-11.50.04:220][ 47]LogBlueprint: Warning: [Compiler InGameGameMode] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-11.50.04:272][ 47]LogBlueprint: Warning: [Compiler InGameGameMode] [1965.05] Compile of InGameGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 217 ms] (/Game/Blueprints/GameMode/InGameGameMode.InGameGameMode)
+[2022.06.17-11.50.04:679][ 47]LogAIModule: Creating AISystem for world Scene1
+[2022.06.17-11.50.04:689][ 47]LogLoad: Game class is 'LanguageGameMode_C'
+[2022.06.17-11.50.04:707][ 47]LogWorld: Bringing World /Game/Maps/Game/Scene1.Scene1 up for play (max tick rate 0) at 2022.06.17-13.50.04
+[2022.06.17-11.50.04:708][ 47]LogWorld: Bringing up level for play took: 0.015234
+[2022.06.17-11.50.04:710][ 47]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.50.04:710][ 47]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.50.04:710][ 47]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.50.04:712][ 47]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.50.04:714][ 47]LogLoad: Took 2.152669 seconds to LoadMap(/Game/Maps/Game/Scene1)
+[2022.06.17-11.50.10:737][219]LogPackageName: SearchForPackageOnDisk took   0.206s to resolve Scene2.umap.
+[2022.06.17-11.50.10:743][220]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.50.10:743][220]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.50.10:938][220]LogPackageName: SearchForPackageOnDisk took   0.194s to resolve Scene2.umap.
+[2022.06.17-11.50.10:938][220]LogNet: Browse: /Game/Maps/Game/Scene2
+[2022.06.17-11.50.10:938][220]LogLoad: LoadMap: /Game/Maps/Game/Scene2
+[2022.06.17-11.50.11:530][220]LogBlueprint: Error: [Compiler InGameGameMode] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.17-11.50.11:531][220]LogBlueprint: Warning: [Compiler InGameGameMode] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-11.50.11:589][220]LogBlueprint: Warning: [Compiler InGameGameMode] [1972.36] Compile of InGameGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 219 ms] (/Game/Blueprints/GameMode/InGameGameMode.InGameGameMode)
+[2022.06.17-11.50.11:999][220]LogAIModule: Creating AISystem for world Scene2
+[2022.06.17-11.50.12:000][220]LogLoad: Game class is 'LanguageGameMode_C'
+[2022.06.17-11.50.12:014][220]LogWorld: Bringing World /Game/Maps/Game/Scene2.Scene2 up for play (max tick rate 0) at 2022.06.17-13.50.12
+[2022.06.17-11.50.12:015][220]LogWorld: Bringing up level for play took: 0.012711
+[2022.06.17-11.50.12:017][220]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.50.12:017][220]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.50.12:017][220]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.50.12:033][220]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Speech Recognition Init : SUCCESS
+[2022.06.17-11.50.12:033][220]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Keyword Mode : Enabled
+[2022.06.17-11.50.12:035][220]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.50.12:036][220]LogLoad: Took 1.096898 seconds to LoadMap(/Game/Maps/Game/Scene2)
+[2022.06.17-11.50.12:614][235]SpeechRecognitionPlugin: Speech Recognition has started
+[2022.06.17-11.50.13:691][267]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.16:040][338]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.17:135][371]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.17:617][385]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.18:698][417]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.19:792][450]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.33:216][853]SpeechRecognitionPlugin: Word: enable walk Start Time: 18.460 End Time 18.980
+[2022.06.17-11.50.33:216][853]SpeechRecognitionPlugin: Word: enable walk Start Time: 14.480 End Time 14.990
+[2022.06.17-11.50.33:216][853]SpeechRecognitionPlugin: Word: one eighty Start Time: 8.810 End Time 9.140
+[2022.06.17-11.50.33:216][853]SpeechRecognitionPlugin: Word: enable walk Start Time: 6.570 End Time 7.070
+[2022.06.17-11.50.33:216][853]SpeechRecognitionPlugin: enable walk
+[2022.06.17-11.50.33:216][853]SpeechRecognitionPlugin: Phrases: enable walk 
+[2022.06.17-11.50.33:216][853]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.50.33:216][853]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.50.33:216][853]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] enable walk
+[2022.06.17-11.50.33:216][853]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.50.33:848][872]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.34:479][891]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.35:731][928]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.36:661][956]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.37:922][994]SpeechRecognitionPlugin: Word: enable sprint Start Time: 23.150 End Time 24.130
+[2022.06.17-11.50.37:922][994]SpeechRecognitionPlugin: enable sprint
+[2022.06.17-11.50.37:922][994]SpeechRecognitionPlugin: Phrases: enable sprint 
+[2022.06.17-11.50.37:922][994]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] enable sprint
+[2022.06.17-11.50.38:390][  8]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.39:482][ 41]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.39:952][ 55]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.40:728][ 78]SpeechRecognitionPlugin: Word: turn right Start Time: 26.210 End Time 26.910
+[2022.06.17-11.50.40:728][ 78]SpeechRecognitionPlugin: turn right
+[2022.06.17-11.50.40:728][ 78]SpeechRecognitionPlugin: Phrases: turn right 
+[2022.06.17-11.50.40:728][ 78]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] turn right
+[2022.06.17-11.50.41:354][ 97]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.42:287][125]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.42:760][139]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.44:015][177]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.44:474][191]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.46:514][252]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.47:614][285]SpeechRecognitionPlugin: Word: turn right Start Time: 32.990 End Time 33.800
+[2022.06.17-11.50.47:614][285]SpeechRecognitionPlugin: turn right
+[2022.06.17-11.50.47:614][285]SpeechRecognitionPlugin: Phrases: turn right 
+[2022.06.17-11.50.47:614][285]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] turn right
+[2022.06.17-11.50.48:082][299]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.49:329][336]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.49:787][350]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.50:408][369]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.51:350][397]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.53:687][467]SpeechRecognitionPlugin: Word: one eighty Start Time: 39.450 End Time 39.980
+[2022.06.17-11.50.53:687][467]SpeechRecognitionPlugin: Word: one eighty Start Time: 38.790 End Time 39.020
+[2022.06.17-11.50.53:687][467]SpeechRecognitionPlugin: Word: one eighty Start Time: 37.710 End Time 38.080
+[2022.06.17-11.50.53:687][467]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.50.53:687][467]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.50.53:687][467]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.50.54:014][477]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.54:476][491]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.56:831][561]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.50.59:781][650]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.51.00:890][683]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.51.01:674][707]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.51.03:697][767]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.51.04:639][796]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.51.06:821][861]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.51.08:077][899]SpeechRecognitionPlugin: Word: one eighty Start Time: 53.680 End Time 54.210
+[2022.06.17-11.51.08:077][899]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.51.08:077][899]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.51.08:077][899]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.51.08:230][903]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.51.09:324][936]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.51.10:572][974]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.51.12:131][ 20]SpeechRecognitionPlugin: Word: one eighty Start Time: 57.310 End Time 57.590
+[2022.06.17-11.51.12:131][ 20]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.51.12:131][ 20]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.51.12:132][ 20]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.51.12:286][ 25]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.51.16:030][137]SpeechRecognitionPlugin: Word: one eighty Start Time: 61.830 End Time 62.270
+[2022.06.17-11.51.16:030][137]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.51.16:030][137]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.51.16:030][137]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.51.16:358][147]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.51.16:964][165]SpeechRecognitionPlugin: Word: one eighty Start Time: 62.890 End Time 63.200
+[2022.06.17-11.51.16:964][165]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.51.16:964][165]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.51.16:966][165]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.51.17:136][171]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.51.18:546][213]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.51.19:790][250]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.51.22:284][325]SpeechRecognitionPlugin: Word: one eighty Start Time: 66.860 End Time 67.190
+[2022.06.17-11.51.22:284][325]SpeechRecognitionPlugin: Word: one eighty Start Time: 66.250 End Time 66.500
+[2022.06.17-11.51.22:284][325]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.51.22:284][325]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.51.22:284][325]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.51.22:609][335]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.51.24:904][397]LogPackageName: SearchForPackageOnDisk took   0.205s to resolve Scene1.umap.
+[2022.06.17-11.51.24:910][398]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.51.24:910][398]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.51.25:148][398]LogPackageName: SearchForPackageOnDisk took   0.237s to resolve Scene1.umap.
+[2022.06.17-11.51.25:148][398]LogNet: Browse: /Game/Maps/Game/Scene1
+[2022.06.17-11.51.25:149][398]LogLoad: LoadMap: /Game/Maps/Game/Scene1
+[2022.06.17-11.51.25:816][398]LogBlueprint: Error: [Compiler InGameGameMode] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.17-11.51.25:817][398]LogBlueprint: Warning: [Compiler InGameGameMode] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-11.51.25:869][398]LogBlueprint: Warning: [Compiler InGameGameMode] [2046.64] Compile of InGameGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 214 ms] (/Game/Blueprints/GameMode/InGameGameMode.InGameGameMode)
+[2022.06.17-11.51.26:281][398]LogAIModule: Creating AISystem for world Scene1
+[2022.06.17-11.51.26:296][398]LogLoad: Game class is 'LanguageGameMode_C'
+[2022.06.17-11.51.26:314][398]LogWorld: Bringing World /Game/Maps/Game/Scene1.Scene1 up for play (max tick rate 0) at 2022.06.17-13.51.26
+[2022.06.17-11.51.26:315][398]LogWorld: Bringing up level for play took: 0.016940
+[2022.06.17-11.51.26:317][398]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.51.26:317][398]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.51.26:317][398]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.51.26:319][398]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.51.26:320][398]LogLoad: Took 1.170617 seconds to LoadMap(/Game/Maps/Game/Scene1)
+[2022.06.17-11.52.59:143][174]LogPackageName: SearchForPackageOnDisk took   0.212s to resolve Scene2.umap.
+[2022.06.17-11.52.59:146][175]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.52.59:146][175]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.52.59:343][175]LogPackageName: SearchForPackageOnDisk took   0.196s to resolve Scene2.umap.
+[2022.06.17-11.52.59:343][175]LogNet: Browse: /Game/Maps/Game/Scene2
+[2022.06.17-11.52.59:344][175]LogLoad: LoadMap: /Game/Maps/Game/Scene2
+[2022.06.17-11.52.59:933][175]LogBlueprint: Error: [Compiler InGameGameMode] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.17-11.52.59:934][175]LogBlueprint: Warning: [Compiler InGameGameMode] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-11.52.59:994][175]LogBlueprint: Warning: [Compiler InGameGameMode] [2140.77] Compile of InGameGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 222 ms] (/Game/Blueprints/GameMode/InGameGameMode.InGameGameMode)
+[2022.06.17-11.53.00:406][175]LogAIModule: Creating AISystem for world Scene2
+[2022.06.17-11.53.00:407][175]LogLoad: Game class is 'LanguageGameMode_C'
+[2022.06.17-11.53.00:425][175]LogWorld: Bringing World /Game/Maps/Game/Scene2.Scene2 up for play (max tick rate 0) at 2022.06.17-13.53.00
+[2022.06.17-11.53.00:427][175]LogWorld: Bringing up level for play took: 0.015319
+[2022.06.17-11.53.00:428][175]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.53.00:428][175]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.53.00:428][175]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.53.00:445][175]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Speech Recognition Init : SUCCESS
+[2022.06.17-11.53.00:445][175]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Keyword Mode : Enabled
+[2022.06.17-11.53.00:447][175]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.53.00:448][175]LogLoad: Took 1.104242 seconds to LoadMap(/Game/Maps/Game/Scene2)
+[2022.06.17-11.53.01:006][189]SpeechRecognitionPlugin: Speech Recognition has started
+[2022.06.17-11.53.02:068][221]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.03:484][264]SpeechRecognitionPlugin: Word: enable walk Start Time: 0.800 End Time 1.470
+[2022.06.17-11.53.03:484][264]SpeechRecognitionPlugin: enable walk
+[2022.06.17-11.53.03:484][264]SpeechRecognitionPlugin: Phrases: enable walk 
+[2022.06.17-11.53.03:484][264]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] enable walk
+[2022.06.17-11.53.05:197][315]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.05:510][324]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.06:125][343]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.07:064][371]SpeechRecognitionPlugin: Word: one eighty Start Time: 4.510 End Time 5.000
+[2022.06.17-11.53.07:064][371]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.53.07:064][371]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.53.07:064][371]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.53.07:852][395]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.09:882][456]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.10:040][460]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.10:510][474]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.11:287][498]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.12:072][521]SpeechRecognitionPlugin: Word: turn left Start Time: 9.290 End Time 9.950
+[2022.06.17-11.53.12:072][521]SpeechRecognitionPlugin: turn left
+[2022.06.17-11.53.12:072][521]SpeechRecognitionPlugin: Phrases: turn left 
+[2022.06.17-11.53.12:072][521]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] turn left
+[2022.06.17-11.53.13:323][559]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.15:354][620]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.15:666][629]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.16:449][653]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.16:763][662]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.19:263][737]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.20:194][765]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.22:222][826]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.24:882][906]SpeechRecognitionPlugin: Word: one eighty Start Time: 22.360 End Time 22.880
+[2022.06.17-11.53.24:882][906]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.53.24:882][906]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.53.24:882][906]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.53.25:982][939]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.29:396][ 41]SpeechRecognitionPlugin: Word: kick the ball Start Time: 25.350 End Time 25.810
+[2022.06.17-11.53.29:396][ 41]SpeechRecognitionPlugin: Word: one eighty Start Time: 25.030 End Time 25.220
+[2022.06.17-11.53.29:396][ 41]SpeechRecognitionPlugin: Word: turn left Start Time: 24.900 End Time 25.240
+[2022.06.17-11.53.29:396][ 41]SpeechRecognitionPlugin: turn left
+[2022.06.17-11.53.29:396][ 41]SpeechRecognitionPlugin: Phrases: turn left 
+[2022.06.17-11.53.29:396][ 41]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.53.29:396][ 41]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.53.29:396][ 41]SpeechRecognitionPlugin: kick the ball
+[2022.06.17-11.53.29:396][ 41]SpeechRecognitionPlugin: Phrases: kick the ball 
+[2022.06.17-11.53.29:396][ 41]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] turn left
+[2022.06.17-11.53.29:396][ 41]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.53.29:396][ 41]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] kick the ball
+[2022.06.17-11.53.29:726][ 51]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.30:033][ 60]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.30:658][ 79]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.32:849][145]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.34:563][196]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.35:192][215]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.36:908][266]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.37:375][280]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.39:103][332]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.39:726][351]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.40:200][365]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.41:596][407]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.42:998][449]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.43:625][468]SpeechRecognitionPlugin: Word: turn left Start Time: 40.910 End Time 41.340
+[2022.06.17-11.53.43:625][468]SpeechRecognitionPlugin: turn left
+[2022.06.17-11.53.43:625][468]SpeechRecognitionPlugin: Phrases: turn left 
+[2022.06.17-11.53.43:625][468]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] turn left
+[2022.06.17-11.53.45:036][510]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.45:510][524]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.47:381][581]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.48:467][613]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.50:352][670]SpeechRecognitionPlugin: Word: one eighty Start Time: 47.840 End Time 48.040
+[2022.06.17-11.53.50:352][670]SpeechRecognitionPlugin: Word: one eighty Start Time: 46.450 End Time 46.930
+[2022.06.17-11.53.50:352][670]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.53.50:352][670]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.53.50:352][670]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.53.50:510][674]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.53:015][750]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.53:486][764]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.54:571][796]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.55:506][824]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.56:128][843]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.58:321][909]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.59:403][941]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.53.59:884][956]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.54.00:975][988]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.54.02:222][ 26]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.54.03:954][ 78]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.54.07:376][180]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.54.08:158][204]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.54.08:731][214]LogPackageName: SearchForPackageOnDisk took   0.218s to resolve Scene1.umap.
+[2022.06.17-11.54.08:734][215]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.54.08:734][215]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.54.08:944][215]LogPackageName: SearchForPackageOnDisk took   0.209s to resolve Scene1.umap.
+[2022.06.17-11.54.08:944][215]LogNet: Browse: /Game/Maps/Game/Scene1
+[2022.06.17-11.54.08:945][215]LogLoad: LoadMap: /Game/Maps/Game/Scene1
+[2022.06.17-11.54.09:606][215]LogBlueprint: Error: [Compiler InGameGameMode] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.17-11.54.09:608][215]LogBlueprint: Warning: [Compiler InGameGameMode] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-11.54.09:664][215]LogBlueprint: Warning: [Compiler InGameGameMode] [2210.44] Compile of InGameGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 217 ms] (/Game/Blueprints/GameMode/InGameGameMode.InGameGameMode)
+[2022.06.17-11.54.10:058][215]LogAIModule: Creating AISystem for world Scene1
+[2022.06.17-11.54.10:071][215]LogLoad: Game class is 'LanguageGameMode_C'
+[2022.06.17-11.54.10:095][215]LogWorld: Bringing World /Game/Maps/Game/Scene1.Scene1 up for play (max tick rate 0) at 2022.06.17-13.54.10
+[2022.06.17-11.54.10:096][215]LogWorld: Bringing up level for play took: 0.022039
+[2022.06.17-11.54.10:098][215]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.54.10:098][215]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.54.10:098][215]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.54.10:101][215]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.54.10:102][215]LogLoad: Took 1.156700 seconds to LoadMap(/Game/Maps/Game/Scene1)
+[2022.06.17-11.55.03:382][800]LogPackageName: SearchForPackageOnDisk took   0.201s to resolve Scene2.umap.
+[2022.06.17-11.55.03:386][801]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.55.03:386][801]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.06.17-11.55.03:595][801]LogPackageName: SearchForPackageOnDisk took   0.208s to resolve Scene2.umap.
+[2022.06.17-11.55.03:595][801]LogNet: Browse: /Game/Maps/Game/Scene2
+[2022.06.17-11.55.03:595][801]LogLoad: LoadMap: /Game/Maps/Game/Scene2
+[2022.06.17-11.55.04:205][801]LogBlueprint: Error: [Compiler InGameGameMode] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.06.17-11.55.04:206][801]LogBlueprint: Warning: [Compiler InGameGameMode] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.06.17-11.55.04:262][801]LogBlueprint: Warning: [Compiler InGameGameMode] [2265.04] Compile of InGameGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 222 ms] (/Game/Blueprints/GameMode/InGameGameMode.InGameGameMode)
+[2022.06.17-11.55.04:683][801]LogAIModule: Creating AISystem for world Scene2
+[2022.06.17-11.55.04:683][801]LogLoad: Game class is 'LanguageGameMode_C'
+[2022.06.17-11.55.04:698][801]LogWorld: Bringing World /Game/Maps/Game/Scene2.Scene2 up for play (max tick rate 0) at 2022.06.17-13.55.04
+[2022.06.17-11.55.04:699][801]LogWorld: Bringing up level for play took: 0.012566
+[2022.06.17-11.55.04:700][801]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.55.04:700][801]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.17-11.55.04:701][801]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.55.04:718][801]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Speech Recognition Init : SUCCESS
+[2022.06.17-11.55.04:718][801]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] Keyword Mode : Enabled
+[2022.06.17-11.55.04:720][801]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.17-11.55.04:720][801]LogLoad: Took 1.125992 seconds to LoadMap(/Game/Maps/Game/Scene2)
+[2022.06.17-11.55.05:330][819]SpeechRecognitionPlugin: Speech Recognition has started
+[2022.06.17-11.55.06:438][852]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.55.07:694][890]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.55.08:002][899]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.55.08:319][909]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.55.09:100][932]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.55.09:570][946]SpeechRecognitionPlugin: Word: one eighty Start Time: 2.650 End Time 2.890
+[2022.06.17-11.55.09:570][946]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.55.09:570][946]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.55.09:570][946]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.55.10:179][964]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.55.10:664][979]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.55.14:575][ 96]SpeechRecognitionPlugin: Word: turn right Start Time: 7.880 End Time 8.150
+[2022.06.17-11.55.14:575][ 96]SpeechRecognitionPlugin: Word: one eighty Start Time: 4.300 End Time 4.580
+[2022.06.17-11.55.14:575][ 96]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.55.14:575][ 96]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.55.14:575][ 96]SpeechRecognitionPlugin: turn right
+[2022.06.17-11.55.14:575][ 96]SpeechRecognitionPlugin: Phrases: turn right 
+[2022.06.17-11.55.14:575][ 96]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.55.14:575][ 96]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] turn right
+[2022.06.17-11.55.14:710][100]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.55.15:186][115]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.55.16:282][147]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.55.18:160][204]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.55.18:626][218]SpeechRecognitionPlugin: Word: one eighty Start Time: 11.690 End Time 12.040
+[2022.06.17-11.55.18:626][218]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.55.18:626][218]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.55.18:626][218]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.55.18:778][222]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.55.21:438][302]SpeechRecognitionPlugin: Word: turn right Start Time: 13.330 End Time 13.590
+[2022.06.17-11.55.21:438][302]SpeechRecognitionPlugin: turn right
+[2022.06.17-11.55.21:438][302]SpeechRecognitionPlugin: Phrases: turn right 
+[2022.06.17-11.55.21:438][302]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] turn right
+[2022.06.17-11.55.21:603][307]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.55.22:520][335]SpeechRecognitionPlugin: Word: one eighty Start Time: 15.250 End Time 15.500
+[2022.06.17-11.55.22:520][335]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.55.22:520][335]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.55.22:520][335]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.55.22:692][340]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.55.24:566][396]SpeechRecognitionPlugin: Word: one eighty Start Time: 17.690 End Time 17.890
+[2022.06.17-11.55.24:566][396]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.55.24:566][396]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.55.24:566][396]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.55.24:871][405]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.55.26:907][466]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.55.28:803][518]SpeechRecognitionPlugin: Word: one eighty Start Time: 20.570 End Time 20.770
+[2022.06.17-11.55.28:803][518]SpeechRecognitionPlugin: one eighty
+[2022.06.17-11.55.28:804][518]SpeechRecognitionPlugin: Phrases: one eighty 
+[2022.06.17-11.55.28:804][518]LogBlueprintUserMessages: [Speech_Movement_Firstperson_bp_C_0] one eighty
+[2022.06.17-11.55.28:941][524]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.55.30:029][557]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.55.30:672][576]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.55.32:537][632]SpeechRecognitionPlugin: Listening
+[2022.06.17-11.55.32:946][640]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.06.17-11.55.33:004][640]LogEngine: All Windows Closed
+[2022.06.17-11.55.33:004][640]LogWindows: FPlatformMisc::RequestExit(0)
+[2022.06.17-11.55.33:667][641]LogExit: Preparing to exit.
+[2022.06.17-11.55.33:667][641]LogMoviePlayer: Shutting down movie player
+[2022.06.17-11.55.34:865][641]LogExit: Game engine shut down
+[2022.06.17-11.55.35:237][641]LogExit: Object subsystem successfully closed.
+[2022.06.17-11.55.35:322][641]LogD3D11RHI: Shutdown
+[2022.06.17-11.55.35:322][641]LogD3D11RHI: CleanupD3DDevice
+[2022.06.17-11.55.35:338][641]LogD3D11RHI: ~FD3D11DynamicRHI
+[2022.06.17-11.55.35:369][641]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (316)
+[2022.06.17-11.55.35:369][641]LogModuleManager: Shutting down and abandoning module SequenceRecorder (314)
+[2022.06.17-11.55.35:369][641]LogModuleManager: Shutting down and abandoning module AutomationController (312)
+[2022.06.17-11.55.35:369][641]LogModuleManager: Shutting down and abandoning module AutomationWorker (310)
+[2022.06.17-11.55.35:369][641]LogModuleManager: Shutting down and abandoning module AIModule (308)
+[2022.06.17-11.55.35:369][641]LogModuleManager: Shutting down and abandoning module GameplayDebugger (307)
+[2022.06.17-11.55.35:370][641]LogModuleManager: Shutting down and abandoning module AITestSuite (305)
+[2022.06.17-11.55.35:370][641]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (302)
+[2022.06.17-11.55.35:370][641]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (300)
+[2022.06.17-11.55.35:370][641]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (298)
+[2022.06.17-11.55.35:370][641]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (296)
+[2022.06.17-11.55.35:370][641]LogModuleManager: Shutting down and abandoning module CharacterAI (294)
+[2022.06.17-11.55.35:370][641]LogModuleManager: Shutting down and abandoning module SessionServices (292)
+[2022.06.17-11.55.35:371][641]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (290)
+[2022.06.17-11.55.35:371][641]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (288)
+[2022.06.17-11.55.35:371][641]LogModuleManager: Shutting down and abandoning module MovieScene (286)
+[2022.06.17-11.55.35:371][641]LogModuleManager: Shutting down and abandoning module GeometryCache (284)
+[2022.06.17-11.55.35:371][641]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (283)
+[2022.06.17-11.55.35:371][641]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (280)
+[2022.06.17-11.55.35:371][641]LogModuleManager: Shutting down and abandoning module PortalServices (278)
+[2022.06.17-11.55.35:371][641]LogModuleManager: Shutting down and abandoning module PortalRpc (276)
+[2022.06.17-11.55.35:372][641]LogModuleManager: Shutting down and abandoning module MessagingRpc (274)
+[2022.06.17-11.55.35:372][641]LogModuleManager: Shutting down and abandoning module ProfilerService (272)
+[2022.06.17-11.55.35:598][641]LogModuleManager: Shutting down and abandoning module TaskGraph (270)
+[2022.06.17-11.55.35:599][641]LogModuleManager: Shutting down and abandoning module SteamVRController (268)
+[2022.06.17-11.55.35:599][641]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (266)
+[2022.06.17-11.55.35:599][641]LogModuleManager: Shutting down and abandoning module OculusInput (264)
+[2022.06.17-11.55.35:599][641]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (262)
+[2022.06.17-11.55.35:599][641]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (260)
+[2022.06.17-11.55.35:599][641]LogModuleManager: Shutting down and abandoning module CableComponent (258)
+[2022.06.17-11.55.35:599][641]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (256)
+[2022.06.17-11.55.35:599][641]LogModuleManager: Shutting down and abandoning module AndroidPermission (254)
+[2022.06.17-11.55.35:599][641]LogModuleManager: Shutting down and abandoning module ActorSequence (250)
+[2022.06.17-11.55.35:599][641]LogModuleManager: Shutting down and abandoning module MediaCompositing (248)
+[2022.06.17-11.55.35:600][641]LogModuleManager: Shutting down and abandoning module HTML5Networking (246)
+[2022.06.17-11.55.35:600][641]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (244)
+[2022.06.17-11.55.35:600][641]LogModuleManager: Shutting down and abandoning module HotReload (243)
+[2022.06.17-11.55.35:600][641]LogDirectoryWatcher: A directory notification for 'D:/Unreal/PLE_Project/Binaries/Win64' was aborted.
+[2022.06.17-11.55.35:601][641]LogDirectoryWatcher: A directory notification for 'D:/Unreal/PLE_Project/Plugins/SpeechRecognition/Binaries/Win64' was aborted.
+[2022.06.17-11.55.35:601][641]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (240)
+[2022.06.17-11.55.35:602][641]LogModuleManager: Shutting down and abandoning module UObjectPlugin (238)
+[2022.06.17-11.55.35:602][641]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (236)
+[2022.06.17-11.55.35:602][641]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (234)
+[2022.06.17-11.55.35:602][641]LogModuleManager: Shutting down and abandoning module SourceControl (233)
+[2022.06.17-11.55.35:602][641]LogModuleManager: Shutting down and abandoning module Sphinx_UE4_Demo (230)
+[2022.06.17-11.55.35:602][641]LogModuleManager: Shutting down and abandoning module SpeechRecognition (228)
+[2022.06.17-11.55.35:603][641]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (226)
+[2022.06.17-11.55.35:603][641]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (224)
+[2022.06.17-11.55.35:603][641]LogModuleManager: Shutting down and abandoning module PhysXVehicles (222)
+[2022.06.17-11.55.35:603][641]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (220)
+[2022.06.17-11.55.35:603][641]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (218)
+[2022.06.17-11.55.35:603][641]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (216)
+[2022.06.17-11.55.35:603][641]LogModuleManager: Shutting down and abandoning module UdpMessaging (214)
+[2022.06.17-11.55.35:704][641]LogModuleManager: Shutting down and abandoning module TcpMessaging (212)
+[2022.06.17-11.55.35:804][641]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (210)
+[2022.06.17-11.55.35:804][641]LogModuleManager: Shutting down and abandoning module FacialAnimation (208)
+[2022.06.17-11.55.35:804][641]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (206)
+[2022.06.17-11.55.35:804][641]LogModuleManager: Shutting down and abandoning module GraphEditor (205)
+[2022.06.17-11.55.35:804][641]LogModuleManager: Shutting down and abandoning module ContentBrowser (203)
+[2022.06.17-11.55.35:805][641]LogModuleManager: Shutting down and abandoning module CollectionManager (202)
+[2022.06.17-11.55.35:805][641]LogDirectoryWatcher: A directory notification for 'D:/Unreal/PLE_Project/Content/Collections/' was aborted.
+[2022.06.17-11.55.35:805][641]LogDirectoryWatcher: A directory notification for 'D:/Unreal/PLE_Project/Content/Developers/lisak/Collections/' was aborted.
+[2022.06.17-11.55.35:806][641]LogDirectoryWatcher: A directory notification for 'D:/Unreal/PLE_Project/Saved/Collections/' was aborted.
+[2022.06.17-11.55.35:806][641]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (201)
+[2022.06.17-11.55.35:811][641]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (196)
+[2022.06.17-11.55.35:811][641]LogModuleManager: Shutting down and abandoning module Paper2D (194)
+[2022.06.17-11.55.35:811][641]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (192)
+[2022.06.17-11.55.35:812][641]LogModuleManager: Shutting down and abandoning module WmfMedia (190)
+[2022.06.17-11.55.35:815][641]LogModuleManager: Shutting down and abandoning module ImgMedia (188)
+[2022.06.17-11.55.35:815][641]LogModuleManager: Shutting down and abandoning module PacketHandler (186)
+[2022.06.17-11.55.35:815][641]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (184)
+[2022.06.17-11.55.35:815][641]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (182)
+[2022.06.17-11.55.35:816][641]LogModuleManager: Shutting down and abandoning module MediaAssets (180)
+[2022.06.17-11.55.35:816][641]LogModuleManager: Shutting down and abandoning module Media (179)
+[2022.06.17-11.55.35:823][641]LogModuleManager: Shutting down and abandoning module Overlay (176)
+[2022.06.17-11.55.35:824][641]LogModuleManager: Shutting down and abandoning module OverlayEditor (175)
+[2022.06.17-11.55.35:824][641]LogModuleManager: Shutting down and abandoning module VREditor (172)
+[2022.06.17-11.55.35:824][641]LogModuleManager: Shutting down and abandoning module StringTableEditor (170)
+[2022.06.17-11.55.35:824][641]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (168)
+[2022.06.17-11.55.35:824][641]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (166)
+[2022.06.17-11.55.35:825][641]LogModuleManager: Shutting down and abandoning module FunctionalTesting (164)
+[2022.06.17-11.55.35:825][641]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (162)
+[2022.06.17-11.55.35:825][641]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (161)
+[2022.06.17-11.55.35:825][641]LogModuleManager: Shutting down and abandoning module UMG (158)
+[2022.06.17-11.55.35:825][641]LogModuleManager: Shutting down and abandoning module UMGEditor (157)
+[2022.06.17-11.55.35:826][641]LogModuleManager: Shutting down and abandoning module Sequencer (156)
+[2022.06.17-11.55.35:826][641]LogModuleManager: Shutting down and abandoning module MessageLog (153)
+[2022.06.17-11.55.35:826][641]LogModuleManager: Shutting down and abandoning module SlateReflector (148)
+[2022.06.17-11.55.35:826][641]LogModuleManager: Shutting down and abandoning module Slate (146)
+[2022.06.17-11.55.35:826][641]LogModuleManager: Shutting down and abandoning module EditorStyle (144)
+[2022.06.17-11.55.35:832][641]LogModuleManager: Shutting down and abandoning module MRMesh (142)
+[2022.06.17-11.55.35:832][641]LogModuleManager: Shutting down and abandoning module Messaging (140)
+[2022.06.17-11.55.35:832][641]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (138)
+[2022.06.17-11.55.35:832][641]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (136)
+[2022.06.17-11.55.35:832][641]LogModuleManager: Shutting down and abandoning module XAudio2 (134)
+[2022.06.17-11.55.35:833][641]LogModuleManager: Shutting down and abandoning module Networking (132)
+[2022.06.17-11.55.35:833][641]LogModuleManager: Shutting down and abandoning module Core (128)
+[2022.06.17-11.55.35:833][641]LogModuleManager: Shutting down and abandoning module LevelSequence (126)
+[2022.06.17-11.55.35:833][641]LogModuleManager: Shutting down and abandoning module KismetCompiler (124)
+[2022.06.17-11.55.35:833][641]LogModuleManager: Shutting down and abandoning module MeshUtilities (122)
+[2022.06.17-11.55.35:833][641]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (121)
+[2022.06.17-11.55.35:833][641]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (120)
+[2022.06.17-11.55.35:833][641]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (119)
+[2022.06.17-11.55.35:833][641]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (117)
+[2022.06.17-11.55.35:834][641]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (115)
+[2022.06.17-11.55.35:834][641]LogModuleManager: Shutting down and abandoning module MaterialBaking (111)
+[2022.06.17-11.55.35:834][641]LogModuleManager: Shutting down and abandoning module DerivedDataCache (106)
+[2022.06.17-11.55.35:865][641]LogDerivedDataCache: Shutdown
+[2022.06.17-11.55.35:865][641]LogModuleManager: Shutting down and abandoning module TargetPlatform (104)
+[2022.06.17-11.55.35:865][641]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (103)
+[2022.06.17-11.55.35:865][641]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (101)
+[2022.06.17-11.55.35:866][641]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (99)
+[2022.06.17-11.55.35:866][641]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (97)
+[2022.06.17-11.55.35:866][641]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (95)
+[2022.06.17-11.55.35:866][641]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (93)
+[2022.06.17-11.55.35:866][641]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (91)
+[2022.06.17-11.55.35:866][641]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (89)
+[2022.06.17-11.55.35:866][641]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (87)
+[2022.06.17-11.55.35:867][641]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (85)
+[2022.06.17-11.55.35:867][641]LogModuleManager: Shutting down and abandoning module ImageWrapper (84)
+[2022.06.17-11.55.35:867][641]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (81)
+[2022.06.17-11.55.35:867][641]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (79)
+[2022.06.17-11.55.35:867][641]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (77)
+[2022.06.17-11.55.35:867][641]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (75)
+[2022.06.17-11.55.35:867][641]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (73)
+[2022.06.17-11.55.35:868][641]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (71)
+[2022.06.17-11.55.35:868][641]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (69)
+[2022.06.17-11.55.35:868][641]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (67)
+[2022.06.17-11.55.35:868][641]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2022.06.17-11.55.35:868][641]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2022.06.17-11.55.35:868][641]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2022.06.17-11.55.35:868][641]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2022.06.17-11.55.35:868][641]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2022.06.17-11.55.35:868][641]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2022.06.17-11.55.35:868][641]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2022.06.17-11.55.35:869][641]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2022.06.17-11.55.35:869][641]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2022.06.17-11.55.35:869][641]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2022.06.17-11.55.35:869][641]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2022.06.17-11.55.35:869][641]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2022.06.17-11.55.35:890][641]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2022.06.17-11.55.35:897][641]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2022.06.17-11.55.35:897][641]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.06.17-11.55.35:898][641]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.06.17-11.55.35:898][641]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2022.06.17-11.55.35:898][641]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2022.06.17-11.55.35:898][641]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2022.06.17-11.55.35:898][641]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2022.06.17-11.55.35:900][641]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2022.06.17-11.55.35:900][641]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2022.06.17-11.55.35:901][641]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2022.06.17-11.55.35:901][641]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2022.06.17-11.55.35:901][641]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2022.06.17-11.55.35:901][641]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2022.06.17-11.55.35:901][641]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2022.06.17-11.55.35:901][641]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2022.06.17-11.55.35:901][641]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2022.06.17-11.55.35:901][641]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2022.06.17-11.55.35:901][641]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2022.06.17-11.55.35:913][641]LogExit: Exiting.
+[2022.06.17-11.55.35:925][641]Log file closed, 06/17/22 13:55:35
